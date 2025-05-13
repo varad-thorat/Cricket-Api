@@ -22,12 +22,14 @@ jobs:
         run: pip install requests beautifulsoup4 lxml
 
       - name: Run scraper
-        run: python webscrape.py
+        run: python scraper.py
 
       - name: Commit and push
+        env:
+          TOKEN: ${{ secrets.GH_PAT }}  # Add your PAT as a repo secret
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data.json
           git commit -m "Update data.json [skip ci]" || echo "No changes"
-          git push
+          git push https://x-access-token:${TOKEN}@github.com/varad-thorat/Cricket-Api.git HEAD:master
