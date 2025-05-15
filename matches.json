@@ -10,23 +10,8 @@
       "team1": "NZA",
       "team2": "BANA",
       "score1": "256",
-      "score2": "37-1",
-      "match_status": "Day 2: 2nd Session - Bangladesh A trail by 219 runs"
-    }
-  },
-  {
-    "match": "United Arab Emirates Women vs Qatar Women,",
-    "status": "15th Match",
-    "date_stadium": "Today     at Bangkok, Asian Institute of Technology Ground",
-    "live_score": "",
-    "scorecard": "",
-    "commentary": "",
-    "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
-      "score2": "",
-      "match_status": "Toss delayed due to ran"
+      "score2": "44-1",
+      "match_status": "Day 2: 2nd Session - Bangladesh A trail by 212 runs"
     }
   },
   {
@@ -42,6 +27,21 @@
       "score1": "",
       "score2": "",
       "match_status": "Bahrain Women opt to bat"
+    }
+  },
+  {
+    "match": "United Arab Emirates Women vs Qatar Women,",
+    "status": "15th Match",
+    "date_stadium": "Today     at Bangkok, Asian Institute of Technology Ground",
+    "live_score": "",
+    "scorecard": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Toss delayed due to ran"
     }
   },
   {
