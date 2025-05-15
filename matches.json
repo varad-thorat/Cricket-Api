@@ -9,7 +9,7 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "46-1",
+      "score1": "68-2",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -25,23 +25,8 @@
       "team1": "NZA",
       "team2": "BANA",
       "score1": "256",
-      "score2": "215-6",
-      "match_status": "Day 2: 3rd Session - Bangladesh A trail by 41 runs"
-    }
-  },
-  {
-    "match": "Bahrain Women vs Nepal Women,",
-    "status": "14th Match",
-    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
-    "live_score": "/live-cricket-scores/117737/bhrw-vs-nepw-14th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "scorecard": "/live-cricket-scorecard/117737/bhrw-vs-nepw-14th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "commentary": "/cricket-full-commentary/117737/bhrw-vs-nepw-14th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "teams": {
-      "team1": "BHRW",
-      "team2": "NEPW",
-      "score1": "76-3 (12.4 Ovs)",
-      "score2": "56-4 (5.4 Ovs)",
-      "match_status": "Nepal Women won by 6 wkts by DLS Method (Target 56)"
+      "score2": "234-7",
+      "match_status": "Day 2: 3rd Session - Bangladesh A trail by 22 runs"
     }
   },
   {
@@ -60,6 +45,21 @@
     }
   },
   {
+    "match": "Bahrain Women vs Nepal Women,",
+    "status": "14th Match",
+    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
+    "live_score": "/live-cricket-scores/117737/bhrw-vs-nepw-14th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "scorecard": "/live-cricket-scorecard/117737/bhrw-vs-nepw-14th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "commentary": "/cricket-full-commentary/117737/bhrw-vs-nepw-14th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "teams": {
+      "team1": "BHRW",
+      "team2": "NEPW",
+      "score1": "76-3 (12.4 Ovs)",
+      "score2": "56-4 (5.4 Ovs)",
+      "match_status": "Nepal Women won by 6 wkts by DLS Method (Target 56)"
+    }
+  },
+  {
     "match": "Thailand Women vs Bhutan Women,",
     "status": "13rd Match",
     "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
@@ -72,6 +72,21 @@
       "score1": "88-3 (9 Ovs)",
       "score2": "43-5 (9 Ovs)",
       "match_status": "Thailand Women won by 45 runs - 9 overs game - due to rain"
+    }
+  },
+  {
+    "match": "Bulgaria Women vs Estonia Women,",
+    "status": "2nd T20I",
+    "date_stadium": "Today     at Tallinn, Estonian National Cricket and Rugby Field",
+    "live_score": "",
+    "scorecard": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Estonia Women opt to bowl"
     }
   },
   {
