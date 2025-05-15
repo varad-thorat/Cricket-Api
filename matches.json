@@ -9,7 +9,7 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "197-6",
+      "score1": "203-7",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
@@ -57,21 +57,6 @@
       "score1": "",
       "score2": "",
       "match_status": "Estonia Women opt to bowl"
-    }
-  },
-  {
-    "match": "Bulgaria Women vs Estonia Women,",
-    "status": "1st T20I",
-    "date_stadium": "Today     at Tallinn, Estonian National Cricket and Rugby Field",
-    "live_score": "",
-    "scorecard": "",
-    "commentary": "",
-    "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
-      "score2": "",
-      "match_status": "Bulgaria Women opt to bat"
     }
   }
 ]
