@@ -24,9 +24,9 @@
     "teams": {
       "team1": "NZA",
       "team2": "BANA",
-      "score1": "256 & 56-1",
+      "score1": "256 & 64-1",
       "score2": "268",
-      "match_status": "Day 3: 1st Session - New Zealand A lead by 44 runs"
+      "match_status": "Day 3: Lunch Break - New Zealand A lead by 52 runs"
     }
   },
   {
@@ -42,6 +42,21 @@
       "score1": "92-3 (20 Ovs)",
       "score2": "96-6 (19.4 Ovs)",
       "match_status": "Bhutan Women won by 4 wkts"
+    }
+  },
+  {
+    "match": "Estonia Women vs Bulgaria Women,",
+    "status": "3rd T20I",
+    "date_stadium": "Today     at Tallinn, Estonian National Cricket and Rugby Field",
+    "live_score": "/live-cricket-scores/118439/estw-vs-bgrw-3rd-t20i-bulgaria-women-tour-of-estonia-2025",
+    "scorecard": "/live-cricket-scorecard/118439/estw-vs-bgrw-3rd-t20i-bulgaria-women-tour-of-estonia-2025",
+    "commentary": "/cricket-full-commentary/118439/estw-vs-bgrw-3rd-t20i-bulgaria-women-tour-of-estonia-2025",
+    "teams": {
+      "team1": "ESTW",
+      "team2": "BGRW",
+      "score1": "4-0 (1 Ovs)",
+      "score2": "",
+      "match_status": "Bulgaria Women opt to bowl"
     }
   },
   {
@@ -70,8 +85,8 @@
       "team1": "BGRW",
       "team2": "ESTW",
       "score1": "87 (19.2 Ovs)",
-      "score2": "88-2 (11.2 Ovs)",
-      "match_status": "Estonia Women won by 8 wkts"
+      "score2": "66-1 (9.4 Ovs)",
+      "match_status": "Estonia Women need 22 runs in 62 balls"
     }
   }
 ]
