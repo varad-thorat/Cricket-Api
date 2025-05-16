@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330",
-      "score2": "152-4",
-      "match_status": "Day 2: 1st Session - Zimbabwe trail by 178 runs"
+      "score2": "166-4",
+      "match_status": "Day 2: Lunch Break - Zimbabwe trail by 164 runs"
     }
   },
   {
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "SCO",
       "team2": "NED",
-      "score1": "279-3 (38.4 Ovs)",
+      "score1": "348-4 (46.2 Ovs)",
       "score2": "",
       "match_status": "Netherlands opt to bowl"
     }
@@ -54,9 +54,9 @@
     "teams": {
       "team1": "MDX",
       "team2": "LEIC",
-      "score1": "47-3",
+      "score1": "84-4",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -69,9 +69,9 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "73-5",
+      "score1": "85-5",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -84,9 +84,9 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "94-1",
+      "score1": "99-1",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -99,9 +99,9 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "57-2",
+      "score1": "67-2",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -114,9 +114,9 @@
     "teams": {
       "team1": "SOM",
       "team2": "SUS",
-      "score1": "79-2",
+      "score1": "99-2",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -129,9 +129,9 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "69-3",
+      "score1": "84-3",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -144,9 +144,9 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "62-2",
+      "score1": "75-2",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -159,9 +159,9 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "119-1",
+      "score1": "133-1",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -174,9 +174,9 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "66-1",
+      "score1": "85-3",
       "score2": "",
-      "match_status": "Day 1: 1st Session"
+      "match_status": "Day 1: Lunch Break"
     }
   },
   {
@@ -192,21 +192,6 @@
       "score1": "115 (18.3 Ovs)",
       "score2": "109-5 (20 Ovs)",
       "match_status": "Estonia Women won by 6 runs"
-    }
-  },
-  {
-    "match": "Bulgaria Women vs Estonia Women,",
-    "status": "1st T20I",
-    "date_stadium": "Today     at Tallinn, Estonian National Cricket and Rugby Field",
-    "live_score": "/live-cricket-scores/118424/bgrw-vs-estw-1st-t20i-bulgaria-women-tour-of-estonia-2025",
-    "scorecard": "/live-cricket-scorecard/118424/bgrw-vs-estw-1st-t20i-bulgaria-women-tour-of-estonia-2025",
-    "commentary": "/cricket-full-commentary/118424/bgrw-vs-estw-1st-t20i-bulgaria-women-tour-of-estonia-2025",
-    "teams": {
-      "team1": "BGRW",
-      "team2": "ESTW",
-      "score1": "87 (19.2 Ovs)",
-      "score2": "88-2 (11.1 Ovs)",
-      "match_status": "Estonia Women won by 8 wkts"
     }
   },
   {
