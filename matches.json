@@ -25,8 +25,8 @@
       "team1": "NZA",
       "team2": "BANA",
       "score1": "256",
-      "score2": "249-8",
-      "match_status": "Day 3: 1st Session - Bangladesh A trail by 7 runs"
+      "score2": "268",
+      "match_status": "Day 3: Innings Break - Bangladesh A lead by 12 runs"
     }
   },
   {
@@ -39,9 +39,9 @@
     "teams": {
       "team1": "KUWW",
       "team2": "BTNW",
-      "score1": "37-2 (9 Ovs)",
+      "score1": "92-3 (20 Ovs)",
       "score2": "",
-      "match_status": "Bhutan Women opt to bowl"
+      "match_status": "Innings Break"
     }
   }
 ]
