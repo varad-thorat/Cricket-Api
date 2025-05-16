@@ -24,7 +24,7 @@
     "teams": {
       "team1": "SCO",
       "team2": "NED",
-      "score1": "47-1 (8.4 Ovs)",
+      "score1": "69-1 (11 Ovs)",
       "score2": "",
       "match_status": "Netherlands opt to bowl"
     }
@@ -39,9 +39,9 @@
     "teams": {
       "team1": "NZA",
       "team2": "BANA",
-      "score1": "256 & 170-4",
+      "score1": "256 & 177-4",
       "score2": "268",
-      "match_status": "Day 3: 3rd Session - New Zealand A lead by 158 runs"
+      "match_status": "Day 3: 3rd Session - New Zealand A lead by 165 runs"
     }
   },
   {
@@ -105,21 +105,6 @@
     }
   },
   {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "",
-    "scorecard": "",
-    "commentary": "",
-    "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
-      "score2": "",
-      "match_status": "Sussex opt to bowl"
-    }
-  },
-  {
     "match": "Yorkshire vs Surrey,",
     "status": "28th Match",
     "date_stadium": "Today   -  Today     at London, Kennington Oval",
@@ -165,6 +150,21 @@
     }
   },
   {
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "",
+    "scorecard": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Sussex opt to bowl"
+    }
+  },
+  {
     "match": "Estonia Women vs Bulgaria Women,",
     "status": "3rd T20I",
     "date_stadium": "Today     at Tallinn, Estonian National Cricket and Rugby Field",
@@ -175,8 +175,8 @@
       "team1": "ESTW",
       "team2": "BGRW",
       "score1": "115 (18.3 Ovs)",
-      "score2": "94-2 (16.2 Ovs)",
-      "match_status": "Bulgaria Women need 22 runs in 23 balls"
+      "score2": "83-2 (14 Ovs)",
+      "match_status": "Bulgaria Women need 33 runs"
     }
   },
   {
