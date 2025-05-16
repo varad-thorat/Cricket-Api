@@ -58,5 +58,20 @@
       "score2": "76-4 (9 Ovs)",
       "match_status": "Estonia Women won by 6 wkts"
     }
+  },
+  {
+    "match": "Bulgaria Women vs Estonia Women,",
+    "status": "1st T20I",
+    "date_stadium": "Today     at Tallinn, Estonian National Cricket and Rugby Field",
+    "live_score": "/live-cricket-scores/118424/bgrw-vs-estw-1st-t20i-bulgaria-women-tour-of-estonia-2025",
+    "scorecard": "/live-cricket-scorecard/118424/bgrw-vs-estw-1st-t20i-bulgaria-women-tour-of-estonia-2025",
+    "commentary": "/cricket-full-commentary/118424/bgrw-vs-estw-1st-t20i-bulgaria-women-tour-of-estonia-2025",
+    "teams": {
+      "team1": "BGRW",
+      "team2": "ESTW",
+      "score1": "87 (19.2 Ovs)",
+      "score2": "88-2 (11.2 Ovs)",
+      "match_status": "Estonia Women won by 8 wkts"
+    }
   }
 ]
