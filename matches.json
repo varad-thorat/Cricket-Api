@@ -24,9 +24,24 @@
     "teams": {
       "team1": "NZA",
       "team2": "BANA",
-      "score1": "256 & 66-1",
+      "score1": "256 & 88-1",
       "score2": "268",
-      "match_status": "Day 3: 2nd Session - New Zealand A lead by 54 runs"
+      "match_status": "Day 3: 2nd Session - New Zealand A lead by 76 runs"
+    }
+  },
+  {
+    "match": "Qatar Women vs Malaysia Women,",
+    "status": "18th Match",
+    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
+    "live_score": "",
+    "scorecard": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Malaysia Women opt to bowl"
     }
   },
   {
@@ -40,8 +55,8 @@
       "team1": "KUWW",
       "team2": "BTNW",
       "score1": "92-3 (20 Ovs)",
-      "score2": "84-4 (18 Ovs)",
-      "match_status": "Bhutan Women need 9 runs in 12 balls"
+      "score2": "96-6 (19.4 Ovs)",
+      "match_status": "Bhutan Women won by 4 wkts"
     }
   },
   {
@@ -54,7 +69,7 @@
     "teams": {
       "team1": "ESTW",
       "team2": "BGRW",
-      "score1": "13-1 (2 Ovs)",
+      "score1": "46-6 (7 Ovs)",
       "score2": "",
       "match_status": "Bulgaria Women opt to bowl"
     }
