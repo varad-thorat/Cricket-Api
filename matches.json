@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330",
-      "score2": "73-2",
-      "match_status": "Day 2: 1st Session - Zimbabwe trail by 257 runs"
+      "score2": "101-2",
+      "match_status": "Day 2: 1st Session - Zimbabwe trail by 229 runs"
     }
   },
   {
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "SCO",
       "team2": "NED",
-      "score1": "162-2 (22.3 Ovs)",
+      "score1": "172-2 (25 Ovs)",
       "score2": "",
       "match_status": "Netherlands opt to bowl"
     }
@@ -45,51 +45,6 @@
     }
   },
   {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "12-1",
-      "score2": "",
-      "match_status": "Day 1: 1st Session"
-    }
-  },
-  {
-    "match": "Northamptonshire vs Glamorgan,",
-    "status": "24th Match",
-    "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
-    "live_score": "/live-cricket-scores/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "NHNT..",
-      "team2": "GLAM",
-      "score1": "35-0",
-      "score2": "",
-      "match_status": "Day 1: 1st Session"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "11-2",
-      "score2": "",
-      "match_status": "Day 1: 1st Session"
-    }
-  },
-  {
     "match": "Middlesex vs Leicestershire,",
     "status": "23rd Match",
     "date_stadium": "Today   -  Today     at London, Lord's",
@@ -105,31 +60,46 @@
     }
   },
   {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "36-0",
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "23-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
   },
   {
-    "match": "Hampshire vs Warwickshire,",
-    "status": "29th Match",
-    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
-    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "match": "Northamptonshire vs Glamorgan,",
+    "status": "24th Match",
+    "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
+    "live_score": "/live-cricket-scores/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "HAM",
-      "team2": "WARK..",
-      "score1": "17-1",
+      "team1": "NHNT..",
+      "team2": "GLAM",
+      "score1": "41-0",
+      "score2": "",
+      "match_status": "Day 1: Unforeseen conditions"
+    }
+  },
+  {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "20-2",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -144,7 +114,7 @@
     "teams": {
       "team1": "SOM",
       "team2": "SUS",
-      "score1": "30-1",
+      "score1": "32-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -159,7 +129,7 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "28-0",
+      "score1": "32-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -174,7 +144,37 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "27-0",
+      "score1": "35-0",
+      "score2": "",
+      "match_status": "Day 1: 1st Session"
+    }
+  },
+  {
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "49-0",
+      "score2": "",
+      "match_status": "Day 1: 1st Session"
+    }
+  },
+  {
+    "match": "Hampshire vs Warwickshire,",
+    "status": "29th Match",
+    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
+    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "HAM",
+      "team2": "WARK..",
+      "score1": "29-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -210,21 +210,6 @@
     }
   },
   {
-    "match": "Qatar Women vs Malaysia Women,",
-    "status": "18th Match",
-    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
-    "live_score": "/live-cricket-scores/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "scorecard": "/live-cricket-scorecard/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "commentary": "/cricket-full-commentary/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "teams": {
-      "team1": "QATW",
-      "team2": "MLYW",
-      "score1": "39 (16.3 Ovs)",
-      "score2": "41-0 (4 Ovs)",
-      "match_status": "Malaysia Women won by 10 wkts - DLS Method (Target 40)"
-    }
-  },
-  {
     "match": "Hong Kong Women vs Bahrain Women,",
     "status": "17th Match",
     "date_stadium": "Today     at Bangkok, Asian Institute of Technology Ground",
@@ -237,6 +222,21 @@
       "score1": "",
       "score2": "",
       "match_status": "Match Abandoned without toss"
+    }
+  },
+  {
+    "match": "Qatar Women vs Malaysia Women,",
+    "status": "18th Match",
+    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
+    "live_score": "/live-cricket-scores/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "scorecard": "/live-cricket-scorecard/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "commentary": "/cricket-full-commentary/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "teams": {
+      "team1": "QATW",
+      "team2": "MLYW",
+      "score1": "39 (16.3 Ovs)",
+      "score2": "41-0 (4 Ovs)",
+      "match_status": "Malaysia Women won by 10 wkts - DLS Method (Target 40)"
     }
   },
   {
