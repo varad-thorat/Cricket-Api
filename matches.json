@@ -45,6 +45,21 @@
     }
   },
   {
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "386-6",
+      "score2": "",
+      "match_status": "Day 1: Stumps"
+    }
+  },
+  {
     "match": "Northamptonshire vs Glamorgan,",
     "status": "24th Match",
     "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
@@ -87,21 +102,6 @@
       "score1": "232",
       "score2": "22-1",
       "match_status": "Day 1: Stumps - Leicestershire trail by 210 runs"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "386-6",
-      "score2": "",
-      "match_status": "Day 1: Stumps"
     }
   },
   {
