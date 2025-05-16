@@ -11,7 +11,7 @@
       "team2": "ZIM",
       "score1": "330",
       "score2": "276-5",
-      "match_status": "Day 2: 2nd Session - Zimbabwe trail by 54 runs"
+      "match_status": "Day 2: 3rd Session - Zimbabwe trail by 54 runs"
     }
   },
   {
@@ -25,8 +25,8 @@
       "team1": "SCO",
       "team2": "NED",
       "score1": "380-9 (50 Ovs)",
-      "score2": "133-5 (23.4 Ovs)",
-      "match_status": "Netherlands need 248 runs"
+      "score2": "175-5 (30.2 Ovs)",
+      "match_status": "Netherlands need 206 runs"
     }
   },
   {
@@ -45,6 +45,21 @@
     }
   },
   {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "172-3",
+      "score2": "",
+      "match_status": "Day 1: 3rd Session"
+    }
+  },
+  {
     "match": "Middlesex vs Leicestershire,",
     "status": "23rd Match",
     "date_stadium": "Today   -  Today     at London, Lord's",
@@ -54,9 +69,9 @@
     "teams": {
       "team1": "MDX",
       "team2": "LEIC",
-      "score1": "187-6",
+      "score1": "189-6",
       "score2": "",
-      "match_status": "Day 1: Tea Break"
+      "match_status": "Day 1: 3rd Session"
     }
   },
   {
@@ -69,9 +84,9 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "225-6",
+      "score1": "231-6",
       "score2": "",
-      "match_status": "Day 1: Tea Break"
+      "match_status": "Day 1: 3rd Session"
     }
   },
   {
@@ -84,24 +99,9 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "144-7",
+      "score1": "185-8",
       "score2": "",
-      "match_status": "Day 1: 2nd Session"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "165-3",
-      "score2": "",
-      "match_status": "Day 1: 2nd Session"
+      "match_status": "Day 1: Tea Break"
     }
   },
   {
@@ -114,9 +114,9 @@
     "teams": {
       "team1": "SOM",
       "team2": "SUS",
-      "score1": "193-5",
+      "score1": "203-5",
       "score2": "",
-      "match_status": "Day 1: Tea Break"
+      "match_status": "Day 1: 3rd Session"
     }
   },
   {
@@ -129,9 +129,9 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "196-7",
+      "score1": "223-7",
       "score2": "",
-      "match_status": "Day 1: 2nd Session"
+      "match_status": "Day 1: Tea Break"
     }
   },
   {
@@ -144,9 +144,9 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "199-5",
+      "score1": "203-6",
       "score2": "",
-      "match_status": "Day 1: 2nd Session"
+      "match_status": "Day 1: Tea Break"
     }
   },
   {
@@ -159,9 +159,9 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "270-7",
+      "score1": "278-8",
       "score2": "",
-      "match_status": "Day 1: 2nd Session"
+      "match_status": "Day 1: Tea Break"
     }
   },
   {
@@ -174,9 +174,9 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "188-5",
+      "score1": "189-5",
       "score2": "",
-      "match_status": "Day 1: 2nd Session"
+      "match_status": "Day 1: Tea Break"
     }
   },
   {
