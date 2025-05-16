@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330",
-      "score2": "268-5",
-      "match_status": "Day 2: 2nd Session - Zimbabwe trail by 62 runs"
+      "score2": "276-5",
+      "match_status": "Day 2: 2nd Session - Zimbabwe trail by 54 runs"
     }
   },
   {
@@ -25,8 +25,8 @@
       "team1": "SCO",
       "team2": "NED",
       "score1": "380-9 (50 Ovs)",
-      "score2": "107-5 (20.4 Ovs)",
-      "match_status": "Netherlands need 274 runs"
+      "score2": "133-5 (23.4 Ovs)",
+      "match_status": "Netherlands need 248 runs"
     }
   },
   {
@@ -42,6 +42,36 @@
       "score1": "256 & 216-5",
       "score2": "268",
       "match_status": "Day 3: Stumps - New Zealand A lead by 204 runs"
+    }
+  },
+  {
+    "match": "Middlesex vs Leicestershire,",
+    "status": "23rd Match",
+    "date_stadium": "Today   -  Today     at London, Lord's",
+    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "MDX",
+      "team2": "LEIC",
+      "score1": "187-6",
+      "score2": "",
+      "match_status": "Day 1: Tea Break"
+    }
+  },
+  {
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "225-6",
+      "score2": "",
+      "match_status": "Day 1: Tea Break"
     }
   },
   {
@@ -69,67 +99,7 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "162-3",
-      "score2": "",
-      "match_status": "Day 1: 2nd Session"
-    }
-  },
-  {
-    "match": "Middlesex vs Leicestershire,",
-    "status": "23rd Match",
-    "date_stadium": "Today   -  Today     at London, Lord's",
-    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "MDX",
-      "team2": "LEIC",
-      "score1": "157-6",
-      "score2": "",
-      "match_status": "Day 1: 2nd Session"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "214-6",
-      "score2": "",
-      "match_status": "Day 1: 2nd Session"
-    }
-  },
-  {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "254-7",
-      "score2": "",
-      "match_status": "Day 1: 2nd Session"
-    }
-  },
-  {
-    "match": "Hampshire vs Warwickshire,",
-    "status": "29th Match",
-    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
-    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "HAM",
-      "team2": "WARK..",
-      "score1": "169-5",
+      "score1": "165-3",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
@@ -144,9 +114,9 @@
     "teams": {
       "team1": "SOM",
       "team2": "SUS",
-      "score1": "192-5",
+      "score1": "193-5",
       "score2": "",
-      "match_status": "Day 1: 2nd Session"
+      "match_status": "Day 1: Tea Break"
     }
   },
   {
@@ -159,7 +129,7 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "190-6",
+      "score1": "196-7",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
@@ -174,7 +144,37 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "182-5",
+      "score1": "199-5",
+      "score2": "",
+      "match_status": "Day 1: 2nd Session"
+    }
+  },
+  {
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "270-7",
+      "score2": "",
+      "match_status": "Day 1: 2nd Session"
+    }
+  },
+  {
+    "match": "Hampshire vs Warwickshire,",
+    "status": "29th Match",
+    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
+    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "HAM",
+      "team2": "WARK..",
+      "score1": "188-5",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
