@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330",
-      "score2": "133-2",
-      "match_status": "Day 2: 1st Session - Zimbabwe trail by 197 runs"
+      "score2": "152-4",
+      "match_status": "Day 2: 1st Session - Zimbabwe trail by 178 runs"
     }
   },
   {
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "SCO",
       "team2": "NED",
-      "score1": "254-2 (37 Ovs)",
+      "score1": "279-3 (38.4 Ovs)",
       "score2": "",
       "match_status": "Netherlands opt to bowl"
     }
@@ -45,6 +45,21 @@
     }
   },
   {
+    "match": "Middlesex vs Leicestershire,",
+    "status": "23rd Match",
+    "date_stadium": "Today   -  Today     at London, Lord's",
+    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "MDX",
+      "team2": "LEIC",
+      "score1": "47-3",
+      "score2": "",
+      "match_status": "Day 1: 1st Session"
+    }
+  },
+  {
     "match": "Kent vs Gloucestershire,",
     "status": "21st Match",
     "date_stadium": "Today   -  Today     at Bristol, County Ground",
@@ -54,7 +69,7 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "66-4",
+      "score1": "73-5",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -69,7 +84,7 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "74-1",
+      "score1": "94-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -84,22 +99,37 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "54-2",
+      "score1": "57-2",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
   },
   {
-    "match": "Middlesex vs Leicestershire,",
-    "status": "23rd Match",
-    "date_stadium": "Today   -  Today     at London, Lord's",
-    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
     "teams": {
-      "team1": "MDX",
-      "team2": "LEIC",
-      "score1": "47-3",
+      "team1": "SOM",
+      "team2": "SUS",
+      "score1": "79-2",
+      "score2": "",
+      "match_status": "Day 1: 1st Session"
+    }
+  },
+  {
+    "match": "Worcestershire vs Essex,",
+    "status": "30th Match",
+    "date_stadium": "Today   -  Today     at Worcester, New Road",
+    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "WORC..",
+      "team2": "ESS",
+      "score1": "69-3",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -129,7 +159,7 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "107-1",
+      "score1": "119-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -144,37 +174,7 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "53-1",
-      "score2": "",
-      "match_status": "Day 1: 1st Session"
-    }
-  },
-  {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "SOM",
-      "team2": "SUS",
-      "score1": "67-1",
-      "score2": "",
-      "match_status": "Day 1: 1st Session"
-    }
-  },
-  {
-    "match": "Worcestershire vs Essex,",
-    "status": "30th Match",
-    "date_stadium": "Today   -  Today     at Worcester, New Road",
-    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "WORC..",
-      "team2": "ESS",
-      "score1": "62-3",
+      "score1": "66-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -210,21 +210,6 @@
     }
   },
   {
-    "match": "Qatar Women vs Malaysia Women,",
-    "status": "18th Match",
-    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
-    "live_score": "/live-cricket-scores/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "scorecard": "/live-cricket-scorecard/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "commentary": "/cricket-full-commentary/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "teams": {
-      "team1": "QATW",
-      "team2": "MLYW",
-      "score1": "39 (16.3 Ovs)",
-      "score2": "41-0 (4 Ovs)",
-      "match_status": "Malaysia Women won by 10 wkts - DLS Method (Target 40)"
-    }
-  },
-  {
     "match": "Hong Kong Women vs Bahrain Women,",
     "status": "17th Match",
     "date_stadium": "Today     at Bangkok, Asian Institute of Technology Ground",
@@ -237,6 +222,21 @@
       "score1": "",
       "score2": "",
       "match_status": "Match Abandoned without toss"
+    }
+  },
+  {
+    "match": "Qatar Women vs Malaysia Women,",
+    "status": "18th Match",
+    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
+    "live_score": "/live-cricket-scores/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "scorecard": "/live-cricket-scorecard/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "commentary": "/cricket-full-commentary/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "teams": {
+      "team1": "QATW",
+      "team2": "MLYW",
+      "score1": "39 (16.3 Ovs)",
+      "score2": "41-0 (4 Ovs)",
+      "match_status": "Malaysia Women won by 10 wkts - DLS Method (Target 40)"
     }
   },
   {
