@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330",
-      "score2": "60-2",
-      "match_status": "Day 2: 1st Session - Zimbabwe trail by 270 runs"
+      "score2": "73-2",
+      "match_status": "Day 2: 1st Session - Zimbabwe trail by 257 runs"
     }
   },
   {
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "SCO",
       "team2": "NED",
-      "score1": "134-1 (17.3 Ovs)",
+      "score1": "162-2 (22.3 Ovs)",
       "score2": "",
       "match_status": "Netherlands opt to bowl"
     }
@@ -41,7 +41,22 @@
       "team2": "BANA",
       "score1": "256 & 200-5",
       "score2": "268",
-      "match_status": "Day 3: 3rd Session - New Zealand A lead by 188 runs"
+      "match_status": "Day 3: Play Stopped due to bad light - New Zealand A lead by 188 runs"
+    }
+  },
+  {
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "12-1",
+      "score2": "",
+      "match_status": "Day 1: 1st Session"
     }
   },
   {
@@ -54,7 +69,7 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "19-0",
+      "score1": "35-0",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -69,7 +84,7 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "6-0",
+      "score1": "11-2",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -84,22 +99,7 @@
     "teams": {
       "team1": "MDX",
       "team2": "LEIC",
-      "score1": "13-1",
-      "score2": "",
-      "match_status": "Day 1: 1st Session"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "2-1",
+      "score1": "20-3",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -114,7 +114,7 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "13-0",
+      "score1": "36-0",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -129,7 +129,7 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "5-1",
+      "score1": "17-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -144,7 +144,7 @@
     "teams": {
       "team1": "SOM",
       "team2": "SUS",
-      "score1": "11-0",
+      "score1": "30-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -153,15 +153,15 @@
     "match": "Worcestershire vs Essex,",
     "status": "30th Match",
     "date_stadium": "Today   -  Today     at Worcester, New Road",
-    "live_score": "",
-    "scorecard": "",
-    "commentary": "",
+    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
     "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
+      "team1": "WORC..",
+      "team2": "ESS",
+      "score1": "28-0",
       "score2": "",
-      "match_status": "Essex opt to bowl"
+      "match_status": "Day 1: 1st Session"
     }
   },
   {
@@ -174,7 +174,7 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "12-0",
+      "score1": "27-0",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -196,21 +196,6 @@
   },
   {
     "match": "Bulgaria Women vs Estonia Women,",
-    "status": "2nd T20I",
-    "date_stadium": "Today     at Tallinn, Estonian National Cricket and Rugby Field",
-    "live_score": "/live-cricket-scores/118430/bgrw-vs-estw-2nd-t20i-bulgaria-women-tour-of-estonia-2025",
-    "scorecard": "/live-cricket-scorecard/118430/bgrw-vs-estw-2nd-t20i-bulgaria-women-tour-of-estonia-2025",
-    "commentary": "/cricket-full-commentary/118430/bgrw-vs-estw-2nd-t20i-bulgaria-women-tour-of-estonia-2025",
-    "teams": {
-      "team1": "BGRW",
-      "team2": "ESTW",
-      "score1": "75 (18 Ovs)",
-      "score2": "76-4 (9 Ovs)",
-      "match_status": "Estonia Women won by 6 wkts"
-    }
-  },
-  {
-    "match": "Bulgaria Women vs Estonia Women,",
     "status": "1st T20I",
     "date_stadium": "Today     at Tallinn, Estonian National Cricket and Rugby Field",
     "live_score": "/live-cricket-scores/118424/bgrw-vs-estw-1st-t20i-bulgaria-women-tour-of-estonia-2025",
@@ -222,21 +207,6 @@
       "score1": "87 (19.2 Ovs)",
       "score2": "88-2 (11.1 Ovs)",
       "match_status": "Estonia Women won by 8 wkts"
-    }
-  },
-  {
-    "match": "Hong Kong Women vs Bahrain Women,",
-    "status": "17th Match",
-    "date_stadium": "Today     at Bangkok, Asian Institute of Technology Ground",
-    "live_score": "/live-cricket-scores/117758/hkw-vs-bhrw-17th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "scorecard": "/live-cricket-scorecard/117758/hkw-vs-bhrw-17th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "commentary": "/cricket-full-commentary/117758/hkw-vs-bhrw-17th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
-      "score2": "",
-      "match_status": "Match Abandoned without toss"
     }
   },
   {
@@ -252,6 +222,21 @@
       "score1": "39 (16.3 Ovs)",
       "score2": "41-0 (4 Ovs)",
       "match_status": "Malaysia Women won by 10 wkts - DLS Method (Target 40)"
+    }
+  },
+  {
+    "match": "Hong Kong Women vs Bahrain Women,",
+    "status": "17th Match",
+    "date_stadium": "Today     at Bangkok, Asian Institute of Technology Ground",
+    "live_score": "/live-cricket-scores/117758/hkw-vs-bhrw-17th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "scorecard": "/live-cricket-scorecard/117758/hkw-vs-bhrw-17th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "commentary": "/cricket-full-commentary/117758/hkw-vs-bhrw-17th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Match Abandoned without toss"
     }
   },
   {
