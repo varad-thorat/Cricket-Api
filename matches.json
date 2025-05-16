@@ -55,8 +55,8 @@
       "team1": "ESTW",
       "team2": "BGRW",
       "score1": "115 (18.3 Ovs)",
-      "score2": "20-2 (6 Ovs)",
-      "match_status": "Bulgaria Women need 96 runs in 84 balls"
+      "score2": "48-2 (9 Ovs)",
+      "match_status": "Bulgaria Women need 68 runs in 66 balls"
     }
   },
   {
@@ -90,6 +90,21 @@
     }
   },
   {
+    "match": "Qatar Women vs Malaysia Women,",
+    "status": "18th Match",
+    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
+    "live_score": "/live-cricket-scores/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "scorecard": "/live-cricket-scorecard/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "commentary": "/cricket-full-commentary/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
+    "teams": {
+      "team1": "QATW",
+      "team2": "MLYW",
+      "score1": "39 (16.3 Ovs)",
+      "score2": "",
+      "match_status": "Innings Break"
+    }
+  },
+  {
     "match": "Hong Kong Women vs Bahrain Women,",
     "status": "17th Match",
     "date_stadium": "Today     at Bangkok, Asian Institute of Technology Ground",
@@ -102,21 +117,6 @@
       "score1": "",
       "score2": "",
       "match_status": "Match Abandoned without toss"
-    }
-  },
-  {
-    "match": "Qatar Women vs Malaysia Women,",
-    "status": "18th Match",
-    "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
-    "live_score": "/live-cricket-scores/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "scorecard": "/live-cricket-scorecard/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "commentary": "/cricket-full-commentary/117767/qatw-vs-mlyw-18th-match-icc-womens-t20-world-cup-asia-qualifier-2025",
-    "teams": {
-      "team1": "QATW",
-      "team2": "MLYW",
-      "score1": "34-9 (16 Ovs)",
-      "score2": "",
-      "match_status": "Match reduced to 17 overs due to rain"
     }
   },
   {
