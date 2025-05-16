@@ -90,6 +90,21 @@
     }
   },
   {
+    "match": "New Zealand A vs Bangladesh A,",
+    "status": "1st Unofficial Test",
+    "date_stadium": "Today   -  Today     at Sylhet, Sylhet International Cricket Stadium",
+    "live_score": "/live-cricket-scores/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
+    "scorecard": "/live-cricket-scorecard/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
+    "commentary": "/cricket-full-commentary/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
+    "teams": {
+      "team1": "NZA",
+      "team2": "BANA",
+      "score1": "256 & 216-5",
+      "score2": "268",
+      "match_status": "Day 3: Stumps - New Zealand A lead by 204 runs"
+    }
+  },
+  {
     "match": "Lancashire vs Derbyshire,",
     "status": "22nd Match",
     "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
@@ -147,21 +162,6 @@
       "score1": "185",
       "score2": "82-3",
       "match_status": "Day 1: Stumps - Glamorgan trail by 103 runs"
-    }
-  },
-  {
-    "match": "New Zealand A vs Bangladesh A,",
-    "status": "1st Unofficial Test",
-    "date_stadium": "Today   -  Today     at Sylhet, Sylhet International Cricket Stadium",
-    "live_score": "/live-cricket-scores/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "scorecard": "/live-cricket-scorecard/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "commentary": "/cricket-full-commentary/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "teams": {
-      "team1": "NZA",
-      "team2": "BANA",
-      "score1": "256 & 216-5",
-      "score2": "268",
-      "match_status": "Day 3: Stumps - New Zealand A lead by 204 runs"
     }
   }
 ]
