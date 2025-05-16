@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330",
-      "score2": "101-2",
-      "match_status": "Day 2: 1st Session - Zimbabwe trail by 229 runs"
+      "score2": "115-2",
+      "match_status": "Day 2: 1st Session - Zimbabwe trail by 215 runs"
     }
   },
   {
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "SCO",
       "team2": "NED",
-      "score1": "172-2 (25 Ovs)",
+      "score1": "203-2 (30 Ovs)",
       "score2": "",
       "match_status": "Netherlands opt to bowl"
     }
@@ -39,9 +39,9 @@
     "teams": {
       "team1": "NZA",
       "team2": "BANA",
-      "score1": "256 & 200-5",
+      "score1": "256 & 216-5",
       "score2": "268",
-      "match_status": "Day 3: Play Stopped due to bad light - New Zealand A lead by 188 runs"
+      "match_status": "Day 3: 3rd Session - New Zealand A lead by 204 runs"
     }
   },
   {
@@ -54,7 +54,7 @@
     "teams": {
       "team1": "MDX",
       "team2": "LEIC",
-      "score1": "20-3",
+      "score1": "34-3",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -69,7 +69,7 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "23-1",
+      "score1": "46-3",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -84,9 +84,9 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "41-0",
+      "score1": "57-1",
       "score2": "",
-      "match_status": "Day 1: Unforeseen conditions"
+      "match_status": "Day 1: 1st Session"
     }
   },
   {
@@ -99,22 +99,7 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "20-2",
-      "score2": "",
-      "match_status": "Day 1: 1st Session"
-    }
-  },
-  {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "SOM",
-      "team2": "SUS",
-      "score1": "32-1",
+      "score1": "28-2",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -129,7 +114,7 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "32-1",
+      "score1": "47-2",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -144,7 +129,7 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "35-0",
+      "score1": "49-0",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -159,7 +144,7 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "49-0",
+      "score1": "81-0",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
@@ -174,7 +159,22 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "29-1",
+      "score1": "41-1",
+      "score2": "",
+      "match_status": "Day 1: 1st Session"
+    }
+  },
+  {
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "SOM",
+      "team2": "SUS",
+      "score1": "44-1",
       "score2": "",
       "match_status": "Day 1: 1st Session"
     }
