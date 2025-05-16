@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330",
-      "score2": "202-5",
-      "match_status": "Day 2: 2nd Session - Zimbabwe trail by 128 runs"
+      "score2": "221-5",
+      "match_status": "Day 2: 2nd Session - Zimbabwe trail by 109 runs"
     }
   },
   {
@@ -25,8 +25,8 @@
       "team1": "SCO",
       "team2": "NED",
       "score1": "380-9 (50 Ovs)",
-      "score2": "29-1 (4.3 Ovs)",
-      "match_status": "Netherlands need 352 runs"
+      "score2": "53-1 (7.5 Ovs)",
+      "match_status": "Netherlands need 328 runs"
     }
   },
   {
@@ -45,6 +45,21 @@
     }
   },
   {
+    "match": "Middlesex vs Leicestershire,",
+    "status": "23rd Match",
+    "date_stadium": "Today   -  Today     at London, Lord's",
+    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "MDX",
+      "team2": "LEIC",
+      "score1": "124-6",
+      "score2": "",
+      "match_status": "Day 1: 2nd Session"
+    }
+  },
+  {
     "match": "Kent vs Gloucestershire,",
     "status": "21st Match",
     "date_stadium": "Today   -  Today     at Bristol, County Ground",
@@ -54,7 +69,7 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "141-6",
+      "score1": "158-6",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
@@ -69,7 +84,7 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "135-3",
+      "score1": "136-4",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
@@ -84,22 +99,22 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "130-3",
+      "score1": "139-3",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
   },
   {
-    "match": "Middlesex vs Leicestershire,",
-    "status": "23rd Match",
-    "date_stadium": "Today   -  Today     at London, Lord's",
-    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
     "teams": {
-      "team1": "MDX",
-      "team2": "LEIC",
-      "score1": "117-5",
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "133-4",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
@@ -114,7 +129,7 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "170-4",
+      "score1": "195-4",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
@@ -144,7 +159,7 @@
     "teams": {
       "team1": "SOM",
       "team2": "SUS",
-      "score1": "151-3",
+      "score1": "156-3",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
@@ -159,22 +174,7 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "121-4",
-      "score2": "",
-      "match_status": "Day 1: 2nd Session"
-    }
-  },
-  {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "131-4",
+      "score1": "129-5",
       "score2": "",
       "match_status": "Day 1: 2nd Session"
     }
