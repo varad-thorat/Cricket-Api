@@ -40,8 +40,8 @@
       "team1": "USA",
       "team2": "CAN",
       "score1": "361-3 (50 Ovs)",
-      "score2": "83-3 (20.2 Ovs)",
-      "match_status": "Canada need 279 runs"
+      "score2": "111-5 (29 Ovs)",
+      "match_status": "Canada need 251 runs"
     }
   },
   {
@@ -57,6 +57,21 @@
       "score1": "",
       "score2": "",
       "match_status": "Match abandoned due to rain (no toss)"
+    }
+  },
+  {
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "424",
+      "score2": "307-4",
+      "match_status": "Day 2: Stumps - Gloucestershire trail by 117 runs"
     }
   },
   {
@@ -102,21 +117,6 @@
       "score1": "232 & 10-0",
       "score2": "274",
       "match_status": "Day 2: Stumps - Middlesex trail by 32 runs"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "424",
-      "score2": "307-4",
-      "match_status": "Day 2: Stumps - Gloucestershire trail by 117 runs"
     }
   },
   {
