@@ -9,9 +9,9 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "330 & 381-5",
+      "score1": "330 & 387-5",
       "score2": "403",
-      "match_status": "Day 3: 3rd Session - Professional County Club Select XI lead by 308 runs"
+      "match_status": "Day 3: Stumps - Professional County Club Select XI lead by 314 runs"
     }
   },
   {
@@ -25,8 +25,8 @@
       "team1": "BAN",
       "team2": "UAE",
       "score1": "191-7 (20 Ovs)",
-      "score2": "61-2 (6.3 Ovs)",
-      "match_status": "United Arab Emirates need 131 runs in 81 balls"
+      "score2": "87-2 (8.5 Ovs)",
+      "match_status": "United Arab Emirates need 105 runs in 67 balls"
     }
   },
   {
@@ -39,9 +39,9 @@
     "teams": {
       "team1": "USA",
       "team2": "CAN",
-      "score1": "332-3 (48 Ovs)",
+      "score1": "361-3 (50 Ovs)",
       "score2": "",
-      "match_status": "United States of America opt to bat"
+      "match_status": "Innings Break"
     }
   },
   {
@@ -70,8 +70,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424",
-      "score2": "278-4",
-      "match_status": "Day 2: 3rd Session - Gloucestershire trail by 146 runs"
+      "score2": "307-4",
+      "match_status": "Day 2: Stumps - Gloucestershire trail by 117 runs"
     }
   },
   {
@@ -84,9 +84,9 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "185 & 44-3",
+      "score1": "185 & 49-3",
       "score2": "424",
-      "match_status": "Day 2: 3rd Session - Northamptonshire trail by 195 runs"
+      "match_status": "Day 2: Stumps - Northamptonshire trail by 190 runs"
     }
   },
   {
@@ -116,7 +116,22 @@
       "team2": "LEIC",
       "score1": "232 & 10-0",
       "score2": "274",
-      "match_status": "Day 2: 3rd Session - Middlesex trail by 32 runs"
+      "match_status": "Day 2: Stumps - Middlesex trail by 32 runs"
+    }
+  },
+  {
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "255",
+      "score2": "365-7",
+      "match_status": "Day 2: 3rd Session - Surrey lead by 110 runs"
     }
   },
   {
@@ -144,9 +159,9 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "300 & 148-5",
+      "score1": "300 & 152-6",
       "score2": "194",
-      "match_status": "Day 2: 3rd Session - Hampshire lead by 254 runs"
+      "match_status": "Day 2: 3rd Session - Hampshire lead by 258 runs"
     }
   },
   {
@@ -160,8 +175,8 @@
       "team1": "SOM",
       "team2": "SUS",
       "score1": "338",
-      "score2": "152 & 111-3 (f/o)",
-      "match_status": "Day 2: 3rd Session - Sussex trail by 75 runs"
+      "score2": "152 & 127-4 (f/o)",
+      "match_status": "Day 2: Stumps - Sussex trail by 59 runs"
     }
   },
   {
@@ -174,24 +189,9 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "358 & 48-3",
+      "score1": "358 & 58-5",
       "score2": "157",
-      "match_status": "Day 2: 3rd Session - Worcestershire lead by 249 runs"
-    }
-  },
-  {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255",
-      "score2": "365-7",
-      "match_status": "Day 2: 3rd Session - Surrey lead by 110 runs"
+      "match_status": "Day 2: 3rd Session - Worcestershire lead by 259 runs"
     }
   }
 ]
