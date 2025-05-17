@@ -9,9 +9,9 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "330 & 348-5",
+      "score1": "330 & 381-5",
       "score2": "403",
-      "match_status": "Day 3: 3rd Session - Professional County Club Select XI lead by 275 runs"
+      "match_status": "Day 3: 3rd Session - Professional County Club Select XI lead by 308 runs"
     }
   },
   {
@@ -25,8 +25,8 @@
       "team1": "BAN",
       "team2": "UAE",
       "score1": "191-7 (20 Ovs)",
-      "score2": "39-0 (3.2 Ovs)",
-      "match_status": "United Arab Emirates need 153 runs"
+      "score2": "61-2 (6.3 Ovs)",
+      "match_status": "United Arab Emirates need 131 runs in 81 balls"
     }
   },
   {
@@ -39,7 +39,7 @@
     "teams": {
       "team1": "USA",
       "team2": "CAN",
-      "score1": "279-3 (45 Ovs)",
+      "score1": "332-3 (48 Ovs)",
       "score2": "",
       "match_status": "United States of America opt to bat"
     }
@@ -57,21 +57,6 @@
       "score1": "",
       "score2": "",
       "match_status": "Match abandoned due to rain (no toss)"
-    }
-  },
-  {
-    "match": "New Zealand A vs Bangladesh A,",
-    "status": "1st Unofficial Test",
-    "date_stadium": "Today   -  Today     at Sylhet, Sylhet International Cricket Stadium",
-    "live_score": "/live-cricket-scores/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "scorecard": "/live-cricket-scorecard/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "commentary": "/cricket-full-commentary/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "teams": {
-      "team1": "NZA",
-      "team2": "BANA",
-      "score1": "256 & 257",
-      "score2": "268 & 175",
-      "match_status": "New Zealand A won by 70 runs"
     }
   },
   {
@@ -99,9 +84,9 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "185 & 36-1",
+      "score1": "185 & 44-3",
       "score2": "424",
-      "match_status": "Day 2: 3rd Session - Northamptonshire trail by 203 runs"
+      "match_status": "Day 2: 3rd Session - Northamptonshire trail by 195 runs"
     }
   },
   {
@@ -129,24 +114,9 @@
     "teams": {
       "team1": "MDX",
       "team2": "LEIC",
-      "score1": "232",
+      "score1": "232 & 10-0",
       "score2": "274",
-      "match_status": "Day 2: Innings Break - Leicestershire lead by 42 runs"
-    }
-  },
-  {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255",
-      "score2": "339-6",
-      "match_status": "Day 2: 3rd Session - Surrey lead by 84 runs"
+      "match_status": "Day 2: 3rd Session - Middlesex trail by 32 runs"
     }
   },
   {
@@ -160,8 +130,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "305-4",
-      "match_status": "Day 2: 3rd Session - Durham trail by 102 runs"
+      "score2": "320-4",
+      "match_status": "Day 2: Stumps - Durham trail by 87 runs"
     }
   },
   {
@@ -174,9 +144,9 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "300 & 136-5",
+      "score1": "300 & 148-5",
       "score2": "194",
-      "match_status": "Day 2: 3rd Session - Hampshire lead by 242 runs"
+      "match_status": "Day 2: 3rd Session - Hampshire lead by 254 runs"
     }
   },
   {
@@ -204,9 +174,24 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "358 & 43-3",
+      "score1": "358 & 48-3",
       "score2": "157",
-      "match_status": "Day 2: 3rd Session - Worcestershire lead by 244 runs"
+      "match_status": "Day 2: 3rd Session - Worcestershire lead by 249 runs"
+    }
+  },
+  {
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "255",
+      "score2": "365-7",
+      "match_status": "Day 2: 3rd Session - Surrey lead by 110 runs"
     }
   }
 ]
