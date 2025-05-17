@@ -9,84 +9,9 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "330 & 30-1",
+      "score1": "330 & 34-1",
       "score2": "403",
-      "match_status": "Day 3: 1st Session - Professional County Club Select XI trail by 43 runs"
-    }
-  },
-  {
-    "match": "New Zealand A vs Bangladesh A,",
-    "status": "1st Unofficial Test",
-    "date_stadium": "Today   -  Today     at Sylhet, Sylhet International Cricket Stadium",
-    "live_score": "/live-cricket-scores/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "scorecard": "/live-cricket-scorecard/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "commentary": "/cricket-full-commentary/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
-    "teams": {
-      "team1": "NZA",
-      "team2": "BANA",
-      "score1": "256 & 257",
-      "score2": "268 & 152-6",
-      "match_status": "Day 4: 3rd Session - Bangladesh A need 94 runs"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "295-5",
-      "score2": "",
-      "match_status": "Day 2: 1st Session"
-    }
-  },
-  {
-    "match": "Middlesex vs Leicestershire,",
-    "status": "23rd Match",
-    "date_stadium": "Today   -  Today     at London, Lord's",
-    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "MDX",
-      "team2": "LEIC",
-      "score1": "232",
-      "score2": "46-1",
-      "match_status": "Day 2: 1st Session - Leicestershire trail by 186 runs"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "412-7",
-      "score2": "",
-      "match_status": "Day 2: 1st Session"
-    }
-  },
-  {
-    "match": "Northamptonshire vs Glamorgan,",
-    "status": "24th Match",
-    "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
-    "live_score": "/live-cricket-scores/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "NHNT..",
-      "team2": "GLAM",
-      "score1": "185",
-      "score2": "117-3",
-      "match_status": "Day 2: 1st Session - Glamorgan trail by 68 runs"
+      "match_status": "Day 3: 1st Session - Professional County Club Select XI trail by 39 runs"
     }
   },
   {
@@ -101,7 +26,7 @@
       "team2": "SUS",
       "score1": "317-6",
       "score2": "",
-      "match_status": "Day 1: Stumps"
+      "match_status": "Day 2: 1st Session"
     }
   },
   {
@@ -130,8 +55,8 @@
       "team1": "YORK..",
       "team2": "SUR",
       "score1": "255",
-      "score2": "61-1",
-      "match_status": "Day 2: 1st Session - Surrey trail by 194 runs"
+      "score2": "66-1",
+      "match_status": "Day 2: 1st Session - Surrey trail by 189 runs"
     }
   },
   {
@@ -145,8 +70,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "34-0",
-      "match_status": "Day 2: 1st Session - Durham trail by 373 runs"
+      "score2": "53-0",
+      "match_status": "Day 2: 1st Session - Durham trail by 354 runs"
     }
   },
   {
@@ -160,8 +85,83 @@
       "team1": "HAM",
       "team2": "WARK..",
       "score1": "300",
-      "score2": "55-4",
-      "match_status": "Day 2: 1st Session - Warwickshire trail by 245 runs"
+      "score2": "60-4",
+      "match_status": "Day 2: 1st Session - Warwickshire trail by 240 runs"
+    }
+  },
+  {
+    "match": "Middlesex vs Leicestershire,",
+    "status": "23rd Match",
+    "date_stadium": "Today   -  Today     at London, Lord's",
+    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "MDX",
+      "team2": "LEIC",
+      "score1": "232",
+      "score2": "56-2",
+      "match_status": "Day 2: 1st Session - Leicestershire trail by 176 runs"
+    }
+  },
+  {
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "413-8",
+      "score2": "",
+      "match_status": "Day 2: 1st Session"
+    }
+  },
+  {
+    "match": "Northamptonshire vs Glamorgan,",
+    "status": "24th Match",
+    "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
+    "live_score": "/live-cricket-scores/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "NHNT..",
+      "team2": "GLAM",
+      "score1": "185",
+      "score2": "141-3",
+      "match_status": "Day 2: 1st Session - Glamorgan trail by 44 runs"
+    }
+  },
+  {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "305-5",
+      "score2": "",
+      "match_status": "Day 2: 1st Session"
+    }
+  },
+  {
+    "match": "New Zealand A vs Bangladesh A,",
+    "status": "1st Unofficial Test",
+    "date_stadium": "Today   -  Today     at Sylhet, Sylhet International Cricket Stadium",
+    "live_score": "/live-cricket-scores/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
+    "scorecard": "/live-cricket-scorecard/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
+    "commentary": "/cricket-full-commentary/118484/nza-vs-bana-1st-unofficial-test-new-zealand-a-tour-to-bangladesh-2025",
+    "teams": {
+      "team1": "NZA",
+      "team2": "BANA",
+      "score1": "256 & 257",
+      "score2": "268 & 162-6",
+      "match_status": "Day 4: 3rd Session - Bangladesh A need 84 runs"
     }
   }
 ]
