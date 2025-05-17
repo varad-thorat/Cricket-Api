@@ -9,9 +9,9 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "330 & 134-1",
+      "score1": "330 & 193-1",
       "score2": "403",
-      "match_status": "Day 3: 2nd Session - Professional County Club Select XI lead by 61 runs"
+      "match_status": "Day 3: 2nd Session - Professional County Club Select XI lead by 120 runs"
     }
   },
   {
@@ -39,7 +39,7 @@
     "teams": {
       "team1": "USA",
       "team2": "CAN",
-      "score1": "20-1 (4 Ovs)",
+      "score1": "42-1 (6.3 Ovs)",
       "score2": "",
       "match_status": "United States of America opt to bat"
     }
@@ -75,6 +75,21 @@
     }
   },
   {
+    "match": "Middlesex vs Leicestershire,",
+    "status": "23rd Match",
+    "date_stadium": "Today   -  Today     at London, Lord's",
+    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "MDX",
+      "team2": "LEIC",
+      "score1": "232",
+      "score2": "163-4",
+      "match_status": "Day 2: 2nd Session - Leicestershire trail by 69 runs"
+    }
+  },
+  {
     "match": "Kent vs Gloucestershire,",
     "status": "21st Match",
     "date_stadium": "Today   -  Today     at Bristol, County Ground",
@@ -85,8 +100,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424",
-      "score2": "126-3",
-      "match_status": "Day 2: 2nd Session - Gloucestershire trail by 298 runs"
+      "score2": "144-4",
+      "match_status": "Day 2: 2nd Session - Gloucestershire trail by 280 runs"
     }
   },
   {
@@ -100,8 +115,8 @@
       "team1": "NHNT..",
       "team2": "GLAM",
       "score1": "185",
-      "score2": "332-6",
-      "match_status": "Day 2: 2nd Session - Glamorgan lead by 147 runs"
+      "score2": "361-6",
+      "match_status": "Day 2: 2nd Session - Glamorgan lead by 176 runs"
     }
   },
   {
@@ -120,66 +135,6 @@
     }
   },
   {
-    "match": "Middlesex vs Leicestershire,",
-    "status": "23rd Match",
-    "date_stadium": "Today   -  Today     at London, Lord's",
-    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "MDX",
-      "team2": "LEIC",
-      "score1": "232",
-      "score2": "149-4",
-      "match_status": "Day 2: 2nd Session - Leicestershire trail by 83 runs"
-    }
-  },
-  {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255",
-      "score2": "195-2",
-      "match_status": "Day 2: 2nd Session - Surrey trail by 60 runs"
-    }
-  },
-  {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "407",
-      "score2": "189-2",
-      "match_status": "Day 2: 2nd Session - Durham trail by 218 runs"
-    }
-  },
-  {
-    "match": "Hampshire vs Warwickshire,",
-    "status": "29th Match",
-    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
-    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "HAM",
-      "team2": "WARK..",
-      "score1": "300 & 21-0",
-      "score2": "194",
-      "match_status": "Day 2: 2nd Session - Hampshire lead by 127 runs"
-    }
-  },
-  {
     "match": "Somerset vs Sussex,",
     "status": "27th Match",
     "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
@@ -190,8 +145,8 @@
       "team1": "SOM",
       "team2": "SUS",
       "score1": "338",
-      "score2": "128-6",
-      "match_status": "Day 2: 2nd Session - Sussex trail by 210 runs"
+      "score2": "151-8",
+      "match_status": "Day 2: 2nd Session - Sussex trail by 187 runs"
     }
   },
   {
@@ -205,8 +160,53 @@
       "team1": "WORC..",
       "team2": "ESS",
       "score1": "358",
-      "score2": "107-6",
-      "match_status": "Day 2: 2nd Session - Essex trail by 251 runs"
+      "score2": "117-7",
+      "match_status": "Day 2: 2nd Session - Essex trail by 241 runs"
+    }
+  },
+  {
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "255",
+      "score2": "204-4",
+      "match_status": "Day 2: 2nd Session - Surrey trail by 51 runs"
+    }
+  },
+  {
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "407",
+      "score2": "206-2",
+      "match_status": "Day 2: 2nd Session - Durham trail by 201 runs"
+    }
+  },
+  {
+    "match": "Hampshire vs Warwickshire,",
+    "status": "29th Match",
+    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
+    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "HAM",
+      "team2": "WARK..",
+      "score1": "300 & 25-1",
+      "score2": "194",
+      "match_status": "Day 2: 2nd Session - Hampshire lead by 131 runs"
     }
   }
 ]
