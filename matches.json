@@ -9,9 +9,9 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "330 & 22-0",
+      "score1": "330 & 30-1",
       "score2": "403",
-      "match_status": "Day 3: 1st Session - Professional County Club Select XI trail by 51 runs"
+      "match_status": "Day 3: 1st Session - Professional County Club Select XI trail by 43 runs"
     }
   },
   {
@@ -25,8 +25,8 @@
       "team1": "NZA",
       "team2": "BANA",
       "score1": "256 & 257",
-      "score2": "268 & 144-5",
-      "match_status": "Day 4: 3rd Session - Bangladesh A need 102 runs"
+      "score2": "268 & 152-6",
+      "match_status": "Day 4: 3rd Session - Bangladesh A need 94 runs"
     }
   },
   {
@@ -39,7 +39,7 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "278-5",
+      "score1": "295-5",
       "score2": "",
       "match_status": "Day 2: 1st Session"
     }
@@ -55,8 +55,8 @@
       "team1": "MDX",
       "team2": "LEIC",
       "score1": "232",
-      "score2": "25-1",
-      "match_status": "Day 2: 1st Session - Leicestershire trail by 207 runs"
+      "score2": "46-1",
+      "match_status": "Day 2: 1st Session - Leicestershire trail by 186 runs"
     }
   },
   {
@@ -69,7 +69,7 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "386-6",
+      "score1": "412-7",
       "score2": "",
       "match_status": "Day 2: 1st Session"
     }
@@ -85,8 +85,8 @@
       "team1": "NHNT..",
       "team2": "GLAM",
       "score1": "185",
-      "score2": "110-3",
-      "match_status": "Day 2: 1st Session - Glamorgan trail by 75 runs"
+      "score2": "117-3",
+      "match_status": "Day 2: 1st Session - Glamorgan trail by 68 runs"
     }
   },
   {
@@ -114,7 +114,7 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "354-9",
+      "score1": "358-9",
       "score2": "",
       "match_status": "Day 2: 1st Session"
     }
@@ -130,8 +130,8 @@
       "team1": "YORK..",
       "team2": "SUR",
       "score1": "255",
-      "score2": "56-0",
-      "match_status": "Day 2: 1st Session - Surrey trail by 199 runs"
+      "score2": "61-1",
+      "match_status": "Day 2: 1st Session - Surrey trail by 194 runs"
     }
   },
   {
@@ -145,8 +145,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "21-0",
-      "match_status": "Day 2: 1st Session - Durham trail by 386 runs"
+      "score2": "34-0",
+      "match_status": "Day 2: 1st Session - Durham trail by 373 runs"
     }
   },
   {
@@ -160,8 +160,8 @@
       "team1": "HAM",
       "team2": "WARK..",
       "score1": "300",
-      "score2": "47-4",
-      "match_status": "Day 2: 1st Session - Warwickshire trail by 253 runs"
+      "score2": "55-4",
+      "match_status": "Day 2: 1st Session - Warwickshire trail by 245 runs"
     }
   }
 ]
