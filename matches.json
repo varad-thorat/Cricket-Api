@@ -9,9 +9,9 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "330 & 42-1",
+      "score1": "330 & 58-1",
       "score2": "403",
-      "match_status": "Day 3: 1st Session - Professional County Club Select XI trail by 31 runs"
+      "match_status": "Day 3: 1st Session - Professional County Club Select XI trail by 15 runs"
     }
   },
   {
@@ -25,8 +25,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "53-0",
-      "match_status": "Day 2: 1st Session - Durham trail by 354 runs"
+      "score2": "81-0",
+      "match_status": "Day 2: 1st Session - Durham trail by 326 runs"
     }
   },
   {
@@ -40,8 +40,8 @@
       "team1": "HAM",
       "team2": "WARK..",
       "score1": "300",
-      "score2": "60-4",
-      "match_status": "Day 2: 1st Session - Warwickshire trail by 240 runs"
+      "score2": "81-4",
+      "match_status": "Day 2: 1st Session - Warwickshire trail by 219 runs"
     }
   },
   {
@@ -85,8 +85,8 @@
       "team1": "YORK..",
       "team2": "SUR",
       "score1": "255",
-      "score2": "71-1",
-      "match_status": "Day 2: 1st Session - Surrey trail by 184 runs"
+      "score2": "100-2",
+      "match_status": "Day 2: 1st Session - Surrey trail by 155 runs"
     }
   },
   {
@@ -100,8 +100,8 @@
       "team1": "NHNT..",
       "team2": "GLAM",
       "score1": "185",
-      "score2": "150-4",
-      "match_status": "Day 2: 1st Session - Glamorgan trail by 35 runs"
+      "score2": "171-4",
+      "match_status": "Day 2: 1st Session - Glamorgan trail by 14 runs"
     }
   },
   {
@@ -114,7 +114,7 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "270-5",
+      "score1": "327-5",
       "score2": "",
       "match_status": "Day 2: 1st Session"
     }
@@ -130,8 +130,8 @@
       "team1": "MDX",
       "team2": "LEIC",
       "score1": "232",
-      "score2": "76-3",
-      "match_status": "Day 2: 1st Session - Leicestershire trail by 156 runs"
+      "score2": "77-3",
+      "match_status": "Day 2: 1st Session - Leicestershire trail by 155 runs"
     }
   },
   {
