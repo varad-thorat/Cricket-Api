@@ -25,8 +25,8 @@
       "team1": "BAN",
       "team2": "UAE",
       "score1": "191-7 (20 Ovs)",
-      "score2": "102-2 (10.5 Ovs)",
-      "match_status": "United Arab Emirates need 90 runs in 55 balls"
+      "score2": "143-5 (16 Ovs)",
+      "match_status": "United Arab Emirates need 49 runs in 24 balls"
     }
   },
   {
@@ -40,8 +40,8 @@
       "team1": "USA",
       "team2": "CAN",
       "score1": "361-3 (50 Ovs)",
-      "score2": "",
-      "match_status": "Innings Break"
+      "score2": "13-0 (3 Ovs)",
+      "match_status": "Canada need 349 runs"
     }
   },
   {
@@ -57,36 +57,6 @@
       "score1": "",
       "score2": "",
       "match_status": "Match abandoned due to rain (no toss)"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458",
-      "score2": "112-4",
-      "match_status": "Day 2: Stumps - Derbyshire trail by 346 runs"
-    }
-  },
-  {
-    "match": "Middlesex vs Leicestershire,",
-    "status": "23rd Match",
-    "date_stadium": "Today   -  Today     at London, Lord's",
-    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "MDX",
-      "team2": "LEIC",
-      "score1": "232 & 10-0",
-      "score2": "274",
-      "match_status": "Day 2: Stumps - Middlesex trail by 32 runs"
     }
   },
   {
@@ -120,33 +90,33 @@
     }
   },
   {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "SOM",
-      "team2": "SUS",
-      "score1": "338",
-      "score2": "152 & 127-4 (f/o)",
-      "match_status": "Day 2: Stumps - Sussex trail by 59 runs"
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458",
+      "score2": "112-4",
+      "match_status": "Day 2: Stumps - Derbyshire trail by 346 runs"
     }
   },
   {
-    "match": "Worcestershire vs Essex,",
-    "status": "30th Match",
-    "date_stadium": "Today   -  Today     at Worcester, New Road",
-    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "match": "Middlesex vs Leicestershire,",
+    "status": "23rd Match",
+    "date_stadium": "Today   -  Today     at London, Lord's",
+    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "WORC..",
-      "team2": "ESS",
-      "score1": "358 & 58-5",
-      "score2": "157",
-      "match_status": "Day 2: Stumps - Worcestershire lead by 259 runs"
+      "team1": "MDX",
+      "team2": "LEIC",
+      "score1": "232 & 10-0",
+      "score2": "274",
+      "match_status": "Day 2: Stumps - Middlesex trail by 32 runs"
     }
   },
   {
@@ -192,6 +162,36 @@
       "score1": "300 & 159-6",
       "score2": "194",
       "match_status": "Day 2: Stumps - Hampshire lead by 265 runs"
+    }
+  },
+  {
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "SOM",
+      "team2": "SUS",
+      "score1": "338",
+      "score2": "152 & 127-4 (f/o)",
+      "match_status": "Day 2: Stumps - Sussex trail by 59 runs"
+    }
+  },
+  {
+    "match": "Worcestershire vs Essex,",
+    "status": "30th Match",
+    "date_stadium": "Today   -  Today     at Worcester, New Road",
+    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "WORC..",
+      "team2": "ESS",
+      "score1": "358 & 58-5",
+      "score2": "157",
+      "match_status": "Day 2: Stumps - Worcestershire lead by 259 runs"
     }
   }
 ]
