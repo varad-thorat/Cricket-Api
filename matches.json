@@ -40,8 +40,8 @@
       "team1": "USA",
       "team2": "CAN",
       "score1": "361-3 (50 Ovs)",
-      "score2": "67-1 (16 Ovs)",
-      "match_status": "Canada need 295 runs"
+      "score2": "83-3 (20.2 Ovs)",
+      "match_status": "Canada need 279 runs"
     }
   },
   {
@@ -57,6 +57,21 @@
       "score1": "",
       "score2": "",
       "match_status": "Match abandoned due to rain (no toss)"
+    }
+  },
+  {
+    "match": "Northamptonshire vs Glamorgan,",
+    "status": "24th Match",
+    "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
+    "live_score": "/live-cricket-scores/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "NHNT..",
+      "team2": "GLAM",
+      "score1": "185 & 49-3",
+      "score2": "424",
+      "match_status": "Day 2: Stumps - Northamptonshire trail by 190 runs"
     }
   },
   {
@@ -105,18 +120,33 @@
     }
   },
   {
-    "match": "Northamptonshire vs Glamorgan,",
-    "status": "24th Match",
-    "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
-    "live_score": "/live-cricket-scores/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
     "teams": {
-      "team1": "NHNT..",
-      "team2": "GLAM",
-      "score1": "185 & 49-3",
-      "score2": "424",
-      "match_status": "Day 2: Stumps - Northamptonshire trail by 190 runs"
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "407",
+      "score2": "320-4",
+      "match_status": "Day 2: Stumps - Durham trail by 87 runs"
+    }
+  },
+  {
+    "match": "Hampshire vs Warwickshire,",
+    "status": "29th Match",
+    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
+    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "HAM",
+      "team2": "WARK..",
+      "score1": "300 & 159-6",
+      "score2": "194",
+      "match_status": "Day 2: Stumps - Hampshire lead by 265 runs"
     }
   },
   {
@@ -162,36 +192,6 @@
       "score1": "255",
       "score2": "384-7",
       "match_status": "Day 2: Stumps - Surrey lead by 129 runs"
-    }
-  },
-  {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "407",
-      "score2": "320-4",
-      "match_status": "Day 2: Stumps - Durham trail by 87 runs"
-    }
-  },
-  {
-    "match": "Hampshire vs Warwickshire,",
-    "status": "29th Match",
-    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
-    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "HAM",
-      "team2": "WARK..",
-      "score1": "300 & 159-6",
-      "score2": "194",
-      "match_status": "Day 2: Stumps - Hampshire lead by 265 runs"
     }
   }
 ]
