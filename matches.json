@@ -15,6 +15,36 @@
     }
   },
   {
+    "match": "Bangladesh vs United Arab Emirates,",
+    "status": "1st T20I",
+    "date_stadium": "Today     at Sharjah, Sharjah Cricket Stadium",
+    "live_score": "",
+    "scorecard": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "United Arab Emirates opt to bowl"
+    }
+  },
+  {
+    "match": "United States of America vs Canada,",
+    "status": "68th Match",
+    "date_stadium": "Today     at Lauderhill, Florida, Central Broward Regional Park Stadium Turf Ground",
+    "live_score": "/live-cricket-scores/117623/usa-vs-can-68th-match-icc-cricket-world-cup-league-two-2023-27",
+    "scorecard": "/live-cricket-scorecard/117623/usa-vs-can-68th-match-icc-cricket-world-cup-league-two-2023-27",
+    "commentary": "/cricket-full-commentary/117623/usa-vs-can-68th-match-icc-cricket-world-cup-league-two-2023-27",
+    "teams": {
+      "team1": "USA",
+      "team2": "CAN",
+      "score1": "20-1 (4 Ovs)",
+      "score2": "",
+      "match_status": "United States of America opt to bat"
+    }
+  },
+  {
     "match": "Royal Challengers Bengaluru vs Kolkata Knight Riders,",
     "status": "58th Match",
     "date_stadium": "Today     at Bengaluru, M.Chinnaswamy Stadium",
@@ -55,8 +85,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424",
-      "score2": "125-3",
-      "match_status": "Day 2: 2nd Session - Gloucestershire trail by 299 runs"
+      "score2": "126-3",
+      "match_status": "Day 2: 2nd Session - Gloucestershire trail by 298 runs"
     }
   },
   {
@@ -70,8 +100,8 @@
       "team1": "NHNT..",
       "team2": "GLAM",
       "score1": "185",
-      "score2": "323-6",
-      "match_status": "Day 2: 2nd Session - Glamorgan lead by 138 runs"
+      "score2": "332-6",
+      "match_status": "Day 2: 2nd Session - Glamorgan lead by 147 runs"
     }
   },
   {
@@ -84,9 +114,9 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "450-7",
+      "score1": "458",
       "score2": "",
-      "match_status": "Day 2: 2nd Session"
+      "match_status": "Day 2: Tea Break"
     }
   },
   {
@@ -100,8 +130,8 @@
       "team1": "MDX",
       "team2": "LEIC",
       "score1": "232",
-      "score2": "134-4",
-      "match_status": "Day 2: 2nd Session - Leicestershire trail by 98 runs"
+      "score2": "149-4",
+      "match_status": "Day 2: 2nd Session - Leicestershire trail by 83 runs"
     }
   },
   {
@@ -115,8 +145,8 @@
       "team1": "YORK..",
       "team2": "SUR",
       "score1": "255",
-      "score2": "198-4",
-      "match_status": "Day 2: 2nd Session - Surrey trail by 57 runs"
+      "score2": "195-2",
+      "match_status": "Day 2: 2nd Session - Surrey trail by 60 runs"
     }
   },
   {
@@ -130,8 +160,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "174-2",
-      "match_status": "Day 2: 2nd Session - Durham trail by 233 runs"
+      "score2": "189-2",
+      "match_status": "Day 2: 2nd Session - Durham trail by 218 runs"
     }
   },
   {
@@ -144,9 +174,9 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "300",
-      "score2": "190-9",
-      "match_status": "Day 2: 2nd Session - Warwickshire trail by 110 runs"
+      "score1": "300 & 21-0",
+      "score2": "194",
+      "match_status": "Day 2: 2nd Session - Hampshire lead by 127 runs"
     }
   },
   {
@@ -160,8 +190,8 @@
       "team1": "SOM",
       "team2": "SUS",
       "score1": "338",
-      "score2": "120-6",
-      "match_status": "Day 2: 2nd Session - Sussex trail by 218 runs"
+      "score2": "128-6",
+      "match_status": "Day 2: 2nd Session - Sussex trail by 210 runs"
     }
   },
   {
@@ -175,8 +205,8 @@
       "team1": "WORC..",
       "team2": "ESS",
       "score1": "358",
-      "score2": "102-6",
-      "match_status": "Day 2: 2nd Session - Essex trail by 256 runs"
+      "score2": "107-6",
+      "match_status": "Day 2: 2nd Session - Essex trail by 251 runs"
     }
   }
 ]
