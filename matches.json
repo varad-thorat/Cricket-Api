@@ -25,8 +25,8 @@
       "team1": "BAN",
       "team2": "UAE",
       "score1": "191-7 (20 Ovs)",
-      "score2": "143-5 (16 Ovs)",
-      "match_status": "United Arab Emirates need 49 runs in 24 balls"
+      "score2": "160-9 (19.4 Ovs)",
+      "match_status": "United Arab Emirates need 32 runs in 2 balls"
     }
   },
   {
@@ -40,8 +40,8 @@
       "team1": "USA",
       "team2": "CAN",
       "score1": "361-3 (50 Ovs)",
-      "score2": "13-0 (3 Ovs)",
-      "match_status": "Canada need 349 runs"
+      "score2": "28-1 (7 Ovs)",
+      "match_status": "Canada need 334 runs"
     }
   },
   {
@@ -57,21 +57,6 @@
       "score1": "",
       "score2": "",
       "match_status": "Match abandoned due to rain (no toss)"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "424",
-      "score2": "307-4",
-      "match_status": "Day 2: Stumps - Gloucestershire trail by 117 runs"
     }
   },
   {
@@ -120,18 +105,18 @@
     }
   },
   {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255",
-      "score2": "384-7",
-      "match_status": "Day 2: Stumps - Surrey lead by 129 runs"
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "424",
+      "score2": "307-4",
+      "match_status": "Day 2: Stumps - Gloucestershire trail by 117 runs"
     }
   },
   {
@@ -192,6 +177,21 @@
       "score1": "358 & 58-5",
       "score2": "157",
       "match_status": "Day 2: Stumps - Worcestershire lead by 259 runs"
+    }
+  },
+  {
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "255",
+      "score2": "384-7",
+      "match_status": "Day 2: Stumps - Surrey lead by 129 runs"
     }
   }
 ]
