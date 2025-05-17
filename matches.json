@@ -24,7 +24,7 @@
     "teams": {
       "team1": "BAN",
       "team2": "UAE",
-      "score1": "54-2 (5.5 Ovs)",
+      "score1": "83-2 (8.2 Ovs)",
       "score2": "",
       "match_status": "United Arab Emirates opt to bowl"
     }
@@ -39,7 +39,7 @@
     "teams": {
       "team1": "USA",
       "team2": "CAN",
-      "score1": "113-2 (19.5 Ovs)",
+      "score1": "125-2 (23 Ovs)",
       "score2": "",
       "match_status": "United States of America opt to bat"
     }
@@ -85,8 +85,8 @@
       "team1": "MDX",
       "team2": "LEIC",
       "score1": "232",
-      "score2": "185-6",
-      "match_status": "Day 2: 3rd Session - Leicestershire trail by 47 runs"
+      "score2": "196-7",
+      "match_status": "Day 2: 3rd Session - Leicestershire trail by 36 runs"
     }
   },
   {
@@ -100,8 +100,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424",
-      "score2": "156-4",
-      "match_status": "Day 2: Tea Break - Gloucestershire trail by 268 runs"
+      "score2": "167-4",
+      "match_status": "Day 2: 3rd Session - Gloucestershire trail by 257 runs"
     }
   },
   {
@@ -115,8 +115,8 @@
       "team1": "NHNT..",
       "team2": "GLAM",
       "score1": "185",
-      "score2": "375-6",
-      "match_status": "Day 2: 3rd Session - Glamorgan lead by 190 runs"
+      "score2": "390-7",
+      "match_status": "Day 2: 3rd Session - Glamorgan lead by 205 runs"
     }
   },
   {
@@ -130,23 +130,8 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458",
-      "score2": "54-2",
-      "match_status": "Day 2: 3rd Session - Derbyshire trail by 404 runs"
-    }
-  },
-  {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "SOM",
-      "team2": "SUS",
-      "score1": "338",
-      "score2": "152 & 27-0 (f/o)",
-      "match_status": "Day 2: 3rd Session - Sussex trail by 159 runs"
+      "score2": "62-2",
+      "match_status": "Day 2: 3rd Session - Derbyshire trail by 396 runs"
     }
   },
   {
@@ -160,8 +145,8 @@
       "team1": "WORC..",
       "team2": "ESS",
       "score1": "358",
-      "score2": "147-8",
-      "match_status": "Day 2: Tea Break - Essex trail by 211 runs"
+      "score2": "157",
+      "match_status": "Day 2: Innings Break - Essex trail by 201 runs"
     }
   },
   {
@@ -175,8 +160,8 @@
       "team1": "YORK..",
       "team2": "SUR",
       "score1": "255",
-      "score2": "265-4",
-      "match_status": "Day 2: 3rd Session - Surrey lead by 10 runs"
+      "score2": "271-5",
+      "match_status": "Day 2: 3rd Session - Surrey lead by 16 runs"
     }
   },
   {
@@ -190,8 +175,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "210-3",
-      "match_status": "Day 2: 3rd Session - Durham trail by 197 runs"
+      "score2": "214-3",
+      "match_status": "Day 2: 3rd Session - Durham trail by 193 runs"
     }
   },
   {
@@ -204,9 +189,24 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "300 & 44-1",
+      "score1": "300 & 53-1",
       "score2": "194",
-      "match_status": "Day 2: 3rd Session - Hampshire lead by 150 runs"
+      "match_status": "Day 2: 3rd Session - Hampshire lead by 159 runs"
+    }
+  },
+  {
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "SOM",
+      "team2": "SUS",
+      "score1": "338",
+      "score2": "152 & 36-0 (f/o)",
+      "match_status": "Day 2: 3rd Session - Sussex trail by 150 runs"
     }
   }
 ]
