@@ -9,9 +9,9 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "330 & 237-3",
+      "score1": "330 & 255-3",
       "score2": "403",
-      "match_status": "Day 3: 3rd Session - Professional County Club Select XI lead by 164 runs"
+      "match_status": "Day 3: 3rd Session - Professional County Club Select XI lead by 182 runs"
     }
   },
   {
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "BAN",
       "team2": "UAE",
-      "score1": "83-2 (8.2 Ovs)",
+      "score1": "104-2 (10.1 Ovs)",
       "score2": "",
       "match_status": "United Arab Emirates opt to bowl"
     }
@@ -39,7 +39,7 @@
     "teams": {
       "team1": "USA",
       "team2": "CAN",
-      "score1": "125-2 (23 Ovs)",
+      "score1": "140-2 (27 Ovs)",
       "score2": "",
       "match_status": "United States of America opt to bat"
     }
@@ -85,8 +85,8 @@
       "team1": "MDX",
       "team2": "LEIC",
       "score1": "232",
-      "score2": "196-7",
-      "match_status": "Day 2: 3rd Session - Leicestershire trail by 36 runs"
+      "score2": "197-7",
+      "match_status": "Day 2: 3rd Session - Leicestershire trail by 35 runs"
     }
   },
   {
@@ -100,8 +100,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424",
-      "score2": "167-4",
-      "match_status": "Day 2: 3rd Session - Gloucestershire trail by 257 runs"
+      "score2": "178-4",
+      "match_status": "Day 2: 3rd Session - Gloucestershire trail by 246 runs"
     }
   },
   {
@@ -115,8 +115,8 @@
       "team1": "NHNT..",
       "team2": "GLAM",
       "score1": "185",
-      "score2": "390-7",
-      "match_status": "Day 2: 3rd Session - Glamorgan lead by 205 runs"
+      "score2": "402-8",
+      "match_status": "Day 2: 3rd Session - Glamorgan lead by 217 runs"
     }
   },
   {
@@ -130,8 +130,68 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458",
-      "score2": "62-2",
-      "match_status": "Day 2: 3rd Session - Derbyshire trail by 396 runs"
+      "score2": "74-2",
+      "match_status": "Day 2: 3rd Session - Derbyshire trail by 384 runs"
+    }
+  },
+  {
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "255",
+      "score2": "277-5",
+      "match_status": "Day 2: 3rd Session - Surrey lead by 22 runs"
+    }
+  },
+  {
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "407",
+      "score2": "231-3",
+      "match_status": "Day 2: 3rd Session - Durham trail by 176 runs"
+    }
+  },
+  {
+    "match": "Hampshire vs Warwickshire,",
+    "status": "29th Match",
+    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
+    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "HAM",
+      "team2": "WARK..",
+      "score1": "300 & 65-2",
+      "score2": "194",
+      "match_status": "Day 2: 3rd Session - Hampshire lead by 171 runs"
+    }
+  },
+  {
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "SOM",
+      "team2": "SUS",
+      "score1": "338",
+      "score2": "152 & 59-0 (f/o)",
+      "match_status": "Day 2: 3rd Session - Sussex trail by 127 runs"
     }
   },
   {
@@ -147,66 +207,6 @@
       "score1": "358",
       "score2": "157",
       "match_status": "Day 2: Innings Break - Essex trail by 201 runs"
-    }
-  },
-  {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255",
-      "score2": "271-5",
-      "match_status": "Day 2: 3rd Session - Surrey lead by 16 runs"
-    }
-  },
-  {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "407",
-      "score2": "214-3",
-      "match_status": "Day 2: 3rd Session - Durham trail by 193 runs"
-    }
-  },
-  {
-    "match": "Hampshire vs Warwickshire,",
-    "status": "29th Match",
-    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
-    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "HAM",
-      "team2": "WARK..",
-      "score1": "300 & 53-1",
-      "score2": "194",
-      "match_status": "Day 2: 3rd Session - Hampshire lead by 159 runs"
-    }
-  },
-  {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "SOM",
-      "team2": "SUS",
-      "score1": "338",
-      "score2": "152 & 36-0 (f/o)",
-      "match_status": "Day 2: 3rd Session - Sussex trail by 150 runs"
     }
   }
 ]
