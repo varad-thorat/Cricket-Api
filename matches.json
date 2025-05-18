@@ -10,21 +10,21 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330 & 464-7 d",
-      "score2": "403 & 245-9",
-      "match_status": "Day 4: 3rd Session - Zimbabwe need 147 runs"
+      "score2": "403 & 253",
+      "match_status": "Professional County Club Select XI won by 138 runs"
     }
   },
   {
     "match": "Austria vs Slovenia,",
     "status": "4th Match",
     "date_stadium": "Today     at Latschach, Velden Cricket Ground",
-    "live_score": "",
-    "scorecard": "",
-    "commentary": "",
+    "live_score": "/live-cricket-scores/119051/aut-vs-slv-4th-match-slovenia-tour-of-austria-2025",
+    "scorecard": "/live-cricket-scorecard/119051/aut-vs-slv-4th-match-slovenia-tour-of-austria-2025",
+    "commentary": "/cricket-full-commentary/119051/aut-vs-slv-4th-match-slovenia-tour-of-austria-2025",
     "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
+      "team1": "AUT",
+      "team2": "SLV",
+      "score1": "11-0 (1 Ovs)",
       "score2": "",
       "match_status": "Austria opt to bat"
     }
@@ -85,8 +85,8 @@
       "team1": "DC",
       "team2": "GT",
       "score1": "199-3 (20 Ovs)",
-      "score2": "82-0 (9 Ovs)",
-      "match_status": "Gujarat Titans need 118 runs in 66 balls"
+      "score2": "139-0 (13.2 Ovs)",
+      "match_status": "Gujarat Titans need 61 runs in 40 balls"
     }
   },
   {
@@ -102,6 +102,21 @@
       "score1": "219-5 (20 Ovs)",
       "score2": "209-7 (20 Ovs)",
       "match_status": "Punjab Kings won by 10 runs"
+    }
+  },
+  {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458 & 134-5",
+      "score2": "314",
+      "match_status": "Day 3: 3rd Session - Lancashire lead by 278 runs"
     }
   },
   {
@@ -129,9 +144,9 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "424 & 99-4",
+      "score1": "424 & 104-4",
       "score2": "516",
-      "match_status": "Day 3: 3rd Session - Kent lead by 7 runs"
+      "match_status": "Day 3: 3rd Session - Kent lead by 12 runs"
     }
   },
   {
@@ -144,24 +159,9 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "185 & 286-9",
+      "score1": "185 & 304",
       "score2": "424",
-      "match_status": "Day 3: 3rd Session - Northamptonshire lead by 47 runs"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458 & 112-3",
-      "score2": "314",
-      "match_status": "Day 3: 3rd Session - Lancashire lead by 256 runs"
+      "match_status": "Day 3: Innings Break - Northamptonshire lead by 65 runs"
     }
   },
   {
@@ -174,9 +174,9 @@
     "teams": {
       "team1": "SOM",
       "team2": "SUS",
-      "score1": "338 & 79-3",
+      "score1": "338 & 113-4",
       "score2": "152 & 335 (f/o)",
-      "match_status": "Day 3: 3rd Session - Somerset need 71 runs"
+      "match_status": "Day 3: 3rd Session - Somerset need 37 runs"
     }
   },
   {
@@ -204,9 +204,9 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "255 & 165-3",
+      "score1": "255 & 168-4",
       "score2": "512",
-      "match_status": "Day 3: 3rd Session - Yorkshire trail by 92 runs"
+      "match_status": "Day 3: 3rd Session - Yorkshire trail by 89 runs"
     }
   },
   {
@@ -219,9 +219,9 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "407 & 23-0",
+      "score1": "407 & 47-1",
       "score2": "664",
-      "match_status": "Day 3: 3rd Session - Nottinghamshire trail by 234 runs"
+      "match_status": "Day 3: 3rd Session - Nottinghamshire trail by 210 runs"
     }
   },
   {
