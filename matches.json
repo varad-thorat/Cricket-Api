@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330 & 464-7 d",
-      "score2": "403 & 143-5",
-      "match_status": "Day 4: 2nd Session - Zimbabwe need 249 runs"
+      "score2": "403 & 164-5",
+      "match_status": "Day 4: 2nd Session - Zimbabwe need 228 runs"
     }
   },
   {
@@ -54,7 +54,7 @@
     "teams": {
       "team1": "DC",
       "team2": "GT",
-      "score1": "45-1 (6 Ovs)",
+      "score1": "55-1 (8 Ovs)",
       "score2": "",
       "match_status": "Gujarat Titans opt to bowl"
     }
@@ -85,8 +85,8 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458",
-      "score2": "279-8",
-      "match_status": "Day 3: 2nd Session - Derbyshire trail by 179 runs"
+      "score2": "314",
+      "match_status": "Day 3: Tea Break - Derbyshire trail by 144 runs"
     }
   },
   {
@@ -99,9 +99,9 @@
     "teams": {
       "team1": "MDX",
       "team2": "LEIC",
-      "score1": "232 & 142-8",
+      "score1": "232 & 143",
       "score2": "274",
-      "match_status": "Day 3: 2nd Session - Middlesex lead by 100 runs"
+      "match_status": "Day 3: Tea Break - Middlesex lead by 101 runs"
     }
   },
   {
@@ -114,9 +114,9 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "424 & 22-0",
+      "score1": "424 & 27-0",
       "score2": "516",
-      "match_status": "Day 3: 2nd Session - Kent trail by 70 runs"
+      "match_status": "Day 3: 2nd Session - Kent trail by 65 runs"
     }
   },
   {
@@ -129,9 +129,9 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "185 & 212-6",
+      "score1": "185 & 219-6",
       "score2": "424",
-      "match_status": "Day 3: 2nd Session - Northamptonshire trail by 27 runs"
+      "match_status": "Day 3: 2nd Session - Northamptonshire trail by 20 runs"
     }
   },
   {
@@ -145,8 +145,8 @@
       "team1": "HAM",
       "team2": "WARK..",
       "score1": "300 & 203",
-      "score2": "194 & 135-6",
-      "match_status": "Day 3: 2nd Session - Warwickshire need 175 runs"
+      "score2": "194 & 150-6",
+      "match_status": "Day 3: 2nd Session - Warwickshire need 160 runs"
     }
   },
   {
@@ -160,8 +160,8 @@
       "team1": "SOM",
       "team2": "SUS",
       "score1": "338",
-      "score2": "152 & 322-9 (f/o)",
-      "match_status": "Day 3: 2nd Session - Sussex lead by 136 runs"
+      "score2": "152 & 325-9 (f/o)",
+      "match_status": "Day 3: 2nd Session - Sussex lead by 139 runs"
     }
   },
   {
@@ -175,8 +175,8 @@
       "team1": "WORC..",
       "team2": "ESS",
       "score1": "358 & 134",
-      "score2": "157 & 55-5",
-      "match_status": "Day 3: 2nd Session - Essex need 281 runs"
+      "score2": "157 & 77-5",
+      "match_status": "Day 3: 2nd Session - Essex need 259 runs"
     }
   },
   {
@@ -189,9 +189,9 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "255 & 53-2",
+      "score1": "255 & 57-2",
       "score2": "512",
-      "match_status": "Day 3: 2nd Session - Yorkshire trail by 204 runs"
+      "match_status": "Day 3: 2nd Session - Yorkshire trail by 200 runs"
     }
   },
   {
@@ -205,8 +205,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "564-6",
-      "match_status": "Day 3: 2nd Session - Durham lead by 157 runs"
+      "score2": "568-6",
+      "match_status": "Day 3: 2nd Session - Durham lead by 161 runs"
     }
   }
 ]
