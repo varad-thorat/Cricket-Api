@@ -10,21 +10,21 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330 & 464-7 d",
-      "score2": "403 & 81-4",
-      "match_status": "Day 4: 2nd Session - Zimbabwe need 311 runs"
+      "score2": "403 & 85-4",
+      "match_status": "Day 4: 2nd Session - Zimbabwe need 307 runs"
     }
   },
   {
     "match": "Slovenia vs Austria,",
     "status": "3rd Match",
     "date_stadium": "Today     at Latschach, Velden Cricket Ground",
-    "live_score": "",
-    "scorecard": "",
-    "commentary": "",
+    "live_score": "/live-cricket-scores/119045/slv-vs-aut-3rd-match-slovenia-tour-of-austria-2025",
+    "scorecard": "/live-cricket-scorecard/119045/slv-vs-aut-3rd-match-slovenia-tour-of-austria-2025",
+    "commentary": "/cricket-full-commentary/119045/slv-vs-aut-3rd-match-slovenia-tour-of-austria-2025",
     "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
+      "team1": "SLV",
+      "team2": "AUT",
+      "score1": "20-2 (4 Ovs)",
       "score2": "",
       "match_status": "Slovenia opt to bat"
     }
@@ -55,23 +55,23 @@
       "team1": "PBKS",
       "team2": "RR",
       "score1": "219-5 (20 Ovs)",
-      "score2": "184-5 (17.4 Ovs)",
-      "match_status": "Rajasthan Royals need 36 runs in 14 balls"
+      "score2": "200-7 (19.4 Ovs)",
+      "match_status": "Rajasthan Royals need 20 runs in 2 balls"
     }
   },
   {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "match": "Delhi Capitals vs Gujarat Titans,",
+    "status": "60th Match",
+    "date_stadium": "Today     at Delhi, Arun Jaitley Stadium",
+    "live_score": "",
+    "scorecard": "",
+    "commentary": "",
     "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458",
-      "score2": "243-8",
-      "match_status": "Day 3: 2nd Session - Derbyshire trail by 215 runs"
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Gujarat Titans opt to bowl"
     }
   },
   {
@@ -100,8 +100,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424",
-      "score2": "476-8",
-      "match_status": "Day 3: 2nd Session - Gloucestershire lead by 52 runs"
+      "score2": "502-9",
+      "match_status": "Day 3: 2nd Session - Gloucestershire lead by 78 runs"
     }
   },
   {
@@ -120,6 +120,51 @@
     }
   },
   {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458",
+      "score2": "243-8",
+      "match_status": "Day 3: 2nd Session - Derbyshire trail by 215 runs"
+    }
+  },
+  {
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "255 & 23-1",
+      "score2": "512",
+      "match_status": "Day 3: 2nd Session - Yorkshire trail by 234 runs"
+    }
+  },
+  {
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "407",
+      "score2": "509-5",
+      "match_status": "Day 3: 2nd Session - Durham lead by 102 runs"
+    }
+  },
+  {
     "match": "Hampshire vs Warwickshire,",
     "status": "29th Match",
     "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
@@ -130,8 +175,8 @@
       "team1": "HAM",
       "team2": "WARK..",
       "score1": "300 & 203",
-      "score2": "194 & 98-3",
-      "match_status": "Day 3: 2nd Session - Warwickshire need 212 runs"
+      "score2": "194 & 104-3",
+      "match_status": "Day 3: 2nd Session - Warwickshire need 206 runs"
     }
   },
   {
@@ -162,36 +207,6 @@
       "score1": "358 & 134",
       "score2": "157 & 35-2",
       "match_status": "Day 3: 2nd Session - Essex need 301 runs"
-    }
-  },
-  {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255 & 19-1",
-      "score2": "512",
-      "match_status": "Day 3: 2nd Session - Yorkshire trail by 238 runs"
-    }
-  },
-  {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "407",
-      "score2": "494-5",
-      "match_status": "Day 3: 2nd Session - Durham lead by 87 runs"
     }
   }
 ]
