@@ -11,7 +11,7 @@
       "team2": "ZIM",
       "score1": "330 & 464-7 d",
       "score2": "403 & 164-5",
-      "match_status": "Day 4: 2nd Session - Zimbabwe need 228 runs"
+      "match_status": "Day 4: Tea Break - Zimbabwe need 228 runs"
     }
   },
   {
@@ -27,6 +27,21 @@
       "score1": "91-8 (20 Ovs)",
       "score2": "93-5 (8.3 Ovs)",
       "match_status": "Austria won by 5 wkts"
+    }
+  },
+  {
+    "match": "Austria vs Slovenia,",
+    "status": "2nd Match",
+    "date_stadium": "Today     at Latschach, Velden Cricket Ground",
+    "live_score": "/live-cricket-scores/119036/aut-vs-slv-2nd-match-slovenia-tour-of-austria-2025",
+    "scorecard": "/live-cricket-scorecard/119036/aut-vs-slv-2nd-match-slovenia-tour-of-austria-2025",
+    "commentary": "/cricket-full-commentary/119036/aut-vs-slv-2nd-match-slovenia-tour-of-austria-2025",
+    "teams": {
+      "team1": "AUT",
+      "team2": "SLV",
+      "score1": "223-8 (20 Ovs)",
+      "score2": "113-9 (20 Ovs)",
+      "match_status": "Austria won by 110 runs"
     }
   },
   {
@@ -54,7 +69,7 @@
     "teams": {
       "team1": "DC",
       "team2": "GT",
-      "score1": "55-1 (8 Ovs)",
+      "score1": "76-1 (9.3 Ovs)",
       "score2": "",
       "match_status": "Gujarat Titans opt to bowl"
     }
@@ -72,21 +87,6 @@
       "score1": "219-5 (20 Ovs)",
       "score2": "209-7 (20 Ovs)",
       "match_status": "Punjab Kings won by 10 runs"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458",
-      "score2": "314",
-      "match_status": "Day 3: Tea Break - Derbyshire trail by 144 runs"
     }
   },
   {
@@ -114,9 +114,9 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "424 & 27-0",
+      "score1": "424 & 28-0",
       "score2": "516",
-      "match_status": "Day 3: 2nd Session - Kent trail by 65 runs"
+      "match_status": "Day 3: 2nd Session - Kent trail by 64 runs"
     }
   },
   {
@@ -129,24 +129,24 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "185 & 219-6",
+      "score1": "185 & 222-6",
       "score2": "424",
-      "match_status": "Day 3: 2nd Session - Northamptonshire trail by 20 runs"
+      "match_status": "Day 3: 2nd Session - Northamptonshire trail by 17 runs"
     }
   },
   {
-    "match": "Hampshire vs Warwickshire,",
-    "status": "29th Match",
-    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
-    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "HAM",
-      "team2": "WARK..",
-      "score1": "300 & 203",
-      "score2": "194 & 150-6",
-      "match_status": "Day 3: 2nd Session - Warwickshire need 160 runs"
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458",
+      "score2": "314",
+      "match_status": "Day 3: Tea Break - Derbyshire trail by 144 runs"
     }
   },
   {
@@ -160,8 +160,8 @@
       "team1": "SOM",
       "team2": "SUS",
       "score1": "338",
-      "score2": "152 & 325-9 (f/o)",
-      "match_status": "Day 3: 2nd Session - Sussex lead by 139 runs"
+      "score2": "152 & 335 (f/o)",
+      "match_status": "Day 3: Innings Break - Sussex lead by 149 runs"
     }
   },
   {
@@ -175,7 +175,7 @@
       "team1": "WORC..",
       "team2": "ESS",
       "score1": "358 & 134",
-      "score2": "157 & 77-5",
+      "score2": "157 & 77-6",
       "match_status": "Day 3: 2nd Session - Essex need 259 runs"
     }
   },
@@ -189,9 +189,9 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "255 & 57-2",
+      "score1": "255 & 67-2",
       "score2": "512",
-      "match_status": "Day 3: 2nd Session - Yorkshire trail by 200 runs"
+      "match_status": "Day 3: 2nd Session - Yorkshire trail by 190 runs"
     }
   },
   {
@@ -205,8 +205,23 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "568-6",
-      "match_status": "Day 3: 2nd Session - Durham lead by 161 runs"
+      "score2": "570-7",
+      "match_status": "Day 3: 2nd Session - Durham lead by 163 runs"
+    }
+  },
+  {
+    "match": "Hampshire vs Warwickshire,",
+    "status": "29th Match",
+    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
+    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "HAM",
+      "team2": "WARK..",
+      "score1": "300 & 203",
+      "score2": "194 & 158-7",
+      "match_status": "Day 3: 2nd Session - Warwickshire need 152 runs"
     }
   }
 ]
