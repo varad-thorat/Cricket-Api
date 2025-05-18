@@ -25,8 +25,8 @@
       "team1": "AUT",
       "team2": "SLV",
       "score1": "244-5 (20 Ovs)",
-      "score2": "50-6 (11 Ovs)",
-      "match_status": "Slovenia need 195 runs in 54 balls"
+      "score2": "62-7 (12.1 Ovs)",
+      "match_status": "Slovenia need 183 runs in 47 balls"
     }
   },
   {
@@ -129,9 +129,9 @@
     "teams": {
       "team1": "KENT",
       "team2": "GLOU..",
-      "score1": "424 & 128-4",
+      "score1": "424 & 135-4",
       "score2": "516",
-      "match_status": "Day 3: 3rd Session - Kent lead by 36 runs"
+      "match_status": "Day 3: Stumps - Kent lead by 43 runs"
     }
   },
   {
@@ -165,36 +165,6 @@
     }
   },
   {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "SOM",
-      "team2": "SUS",
-      "score1": "338 & 126-4",
-      "score2": "152 & 335 (f/o)",
-      "match_status": "Day 3: 3rd Session - Somerset need 24 runs"
-    }
-  },
-  {
-    "match": "Worcestershire vs Essex,",
-    "status": "30th Match",
-    "date_stadium": "Today   -  Today     at Worcester, New Road",
-    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "WORC..",
-      "team2": "ESS",
-      "score1": "358 & 134",
-      "score2": "157 & 110",
-      "match_status": "Worcestershire won by 225 runs"
-    }
-  },
-  {
     "match": "Yorkshire vs Surrey,",
     "status": "28th Match",
     "date_stadium": "Today   -  Today     at London, Kennington Oval",
@@ -204,9 +174,9 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "255 & 183-6",
+      "score1": "255 & 185-6",
       "score2": "512",
-      "match_status": "Day 3: 3rd Session - Yorkshire trail by 74 runs"
+      "match_status": "Day 3: Stumps - Yorkshire trail by 72 runs"
     }
   },
   {
@@ -237,6 +207,36 @@
       "score1": "300 & 203",
       "score2": "194 & 220",
       "match_status": "Hampshire won by 89 runs"
+    }
+  },
+  {
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "SOM",
+      "team2": "SUS",
+      "score1": "338 & 126-4",
+      "score2": "152 & 335 (f/o)",
+      "match_status": "Day 3: 3rd Session - Somerset need 24 runs"
+    }
+  },
+  {
+    "match": "Worcestershire vs Essex,",
+    "status": "30th Match",
+    "date_stadium": "Today   -  Today     at Worcester, New Road",
+    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "WORC..",
+      "team2": "ESS",
+      "score1": "358 & 134",
+      "score2": "157 & 110",
+      "match_status": "Worcestershire won by 225 runs"
     }
   }
 ]
