@@ -10,8 +10,8 @@
       "team1": "PCCS..",
       "team2": "ZIM",
       "score1": "330 & 464-7 d",
-      "score2": "403 & 164-5",
-      "match_status": "Day 4: Tea Break - Zimbabwe need 228 runs"
+      "score2": "403 & 169-6",
+      "match_status": "Day 4: 3rd Session - Zimbabwe need 223 runs"
     }
   },
   {
@@ -69,7 +69,7 @@
     "teams": {
       "team1": "DC",
       "team2": "GT",
-      "score1": "76-1 (9.3 Ovs)",
+      "score1": "129-2 (14.3 Ovs)",
       "score2": "",
       "match_status": "Gujarat Titans opt to bowl"
     }
@@ -87,21 +87,6 @@
       "score1": "219-5 (20 Ovs)",
       "score2": "209-7 (20 Ovs)",
       "match_status": "Punjab Kings won by 10 runs"
-    }
-  },
-  {
-    "match": "Middlesex vs Leicestershire,",
-    "status": "23rd Match",
-    "date_stadium": "Today   -  Today     at London, Lord's",
-    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "MDX",
-      "team2": "LEIC",
-      "score1": "232 & 143",
-      "score2": "274",
-      "match_status": "Day 3: Tea Break - Middlesex lead by 101 runs"
     }
   },
   {
@@ -129,9 +114,9 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "185 & 222-6",
+      "score1": "185 & 226-7",
       "score2": "424",
-      "match_status": "Day 3: 2nd Session - Northamptonshire trail by 17 runs"
+      "match_status": "Day 3: 2nd Session - Northamptonshire trail by 13 runs"
     }
   },
   {
@@ -144,39 +129,24 @@
     "teams": {
       "team1": "LANC..",
       "team2": "DERB..",
-      "score1": "458",
+      "score1": "458 & 10-0",
       "score2": "314",
-      "match_status": "Day 3: Tea Break - Derbyshire trail by 144 runs"
+      "match_status": "Day 3: 3rd Session - Lancashire lead by 154 runs"
     }
   },
   {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "match": "Middlesex vs Leicestershire,",
+    "status": "23rd Match",
+    "date_stadium": "Today   -  Today     at London, Lord's",
+    "live_score": "/live-cricket-scores/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113451/mdx-vs-leic-23rd-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "SOM",
-      "team2": "SUS",
-      "score1": "338",
-      "score2": "152 & 335 (f/o)",
-      "match_status": "Day 3: Innings Break - Sussex lead by 149 runs"
-    }
-  },
-  {
-    "match": "Worcestershire vs Essex,",
-    "status": "30th Match",
-    "date_stadium": "Today   -  Today     at Worcester, New Road",
-    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "WORC..",
-      "team2": "ESS",
-      "score1": "358 & 134",
-      "score2": "157 & 77-6",
-      "match_status": "Day 3: 2nd Session - Essex need 259 runs"
+      "team1": "MDX",
+      "team2": "LEIC",
+      "score1": "232 & 143",
+      "score2": "274 & 14-0",
+      "match_status": "Day 3: 3rd Session - Leicestershire need 88 runs"
     }
   },
   {
@@ -191,7 +161,7 @@
       "team2": "SUR",
       "score1": "255 & 67-2",
       "score2": "512",
-      "match_status": "Day 3: 2nd Session - Yorkshire trail by 190 runs"
+      "match_status": "Day 3: Tea Break - Yorkshire trail by 190 runs"
     }
   },
   {
@@ -220,8 +190,38 @@
       "team1": "HAM",
       "team2": "WARK..",
       "score1": "300 & 203",
-      "score2": "194 & 158-7",
-      "match_status": "Day 3: 2nd Session - Warwickshire need 152 runs"
+      "score2": "194 & 166-7",
+      "match_status": "Day 3: Tea Break - Warwickshire need 144 runs"
+    }
+  },
+  {
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "SOM",
+      "team2": "SUS",
+      "score1": "338 & 11-0",
+      "score2": "152 & 335 (f/o)",
+      "match_status": "Day 3: 2nd Session - Somerset need 139 runs"
+    }
+  },
+  {
+    "match": "Worcestershire vs Essex,",
+    "status": "30th Match",
+    "date_stadium": "Today   -  Today     at Worcester, New Road",
+    "live_score": "/live-cricket-scores/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113022/worcs-vs-ess-30th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "WORC..",
+      "team2": "ESS",
+      "score1": "358 & 134",
+      "score2": "157 & 89-6",
+      "match_status": "Day 3: Tea Break - Essex need 247 runs"
     }
   }
 ]
