@@ -69,9 +69,9 @@
     "teams": {
       "team1": "DC",
       "team2": "GT",
-      "score1": "183-3 (19 Ovs)",
+      "score1": "199-3 (20 Ovs)",
       "score2": "",
-      "match_status": "Gujarat Titans opt to bowl"
+      "match_status": "Innings Break"
     }
   },
   {
@@ -87,36 +87,6 @@
       "score1": "219-5 (20 Ovs)",
       "score2": "209-7 (20 Ovs)",
       "match_status": "Punjab Kings won by 10 runs"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "424 & 52-1",
-      "score2": "516",
-      "match_status": "Day 3: 3rd Session - Kent trail by 40 runs"
-    }
-  },
-  {
-    "match": "Northamptonshire vs Glamorgan,",
-    "status": "24th Match",
-    "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
-    "live_score": "/live-cricket-scores/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "NHNT..",
-      "team2": "GLAM",
-      "score1": "185 & 230-7",
-      "score2": "424",
-      "match_status": "Day 3: 3rd Session - Northamptonshire trail by 9 runs"
     }
   },
   {
@@ -145,38 +115,38 @@
       "team1": "MDX",
       "team2": "LEIC",
       "score1": "232 & 143",
-      "score2": "274 & 44-1",
-      "match_status": "Day 3: 3rd Session - Leicestershire need 58 runs"
+      "score2": "274 & 63-2",
+      "match_status": "Day 3: 3rd Session - Leicestershire need 39 runs"
     }
   },
   {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "407",
-      "score2": "633-8",
-      "match_status": "Day 3: 3rd Session - Durham lead by 226 runs"
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "424 & 60-1",
+      "score2": "516",
+      "match_status": "Day 3: 3rd Session - Kent trail by 32 runs"
     }
   },
   {
-    "match": "Hampshire vs Warwickshire,",
-    "status": "29th Match",
-    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
-    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "match": "Northamptonshire vs Glamorgan,",
+    "status": "24th Match",
+    "date_stadium": "Today   -  Today     at Cardiff, Sophia Gardens",
+    "live_score": "/live-cricket-scores/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113454/nhnts-vs-glam-24th-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "HAM",
-      "team2": "WARK..",
-      "score1": "300 & 203",
-      "score2": "194 & 177-7",
-      "match_status": "Day 3: 3rd Session - Warwickshire need 133 runs"
+      "team1": "NHNT..",
+      "team2": "GLAM",
+      "score1": "185 & 230-8",
+      "score2": "424",
+      "match_status": "Day 3: 3rd Session - Northamptonshire trail by 9 runs"
     }
   },
   {
@@ -189,9 +159,9 @@
     "teams": {
       "team1": "SOM",
       "team2": "SUS",
-      "score1": "338 & 30-3",
+      "score1": "338 & 41-3",
       "score2": "152 & 335 (f/o)",
-      "match_status": "Day 3: 2nd Session - Somerset need 120 runs"
+      "match_status": "Day 3: 2nd Session - Somerset need 109 runs"
     }
   },
   {
@@ -219,9 +189,39 @@
     "teams": {
       "team1": "YORK..",
       "team2": "SUR",
-      "score1": "255 & 81-2",
+      "score1": "255 & 83-3",
       "score2": "512",
-      "match_status": "Day 3: 3rd Session - Yorkshire trail by 176 runs"
+      "match_status": "Day 3: 3rd Session - Yorkshire trail by 174 runs"
+    }
+  },
+  {
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "407",
+      "score2": "650-8",
+      "match_status": "Day 3: 3rd Session - Durham lead by 243 runs"
+    }
+  },
+  {
+    "match": "Hampshire vs Warwickshire,",
+    "status": "29th Match",
+    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
+    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "HAM",
+      "team2": "WARK..",
+      "score1": "300 & 203",
+      "score2": "194 & 187-7",
+      "match_status": "Day 3: 3rd Session - Warwickshire need 123 runs"
     }
   }
 ]
