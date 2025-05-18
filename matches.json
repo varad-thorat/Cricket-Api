@@ -105,6 +105,21 @@
     }
   },
   {
+    "match": "Hampshire vs Warwickshire,",
+    "status": "29th Match",
+    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
+    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "HAM",
+      "team2": "WARK..",
+      "score1": "300 & 203",
+      "score2": "194 & 220",
+      "match_status": "Hampshire won by 89 runs"
+    }
+  },
+  {
     "match": "Somerset vs Sussex,",
     "status": "27th Match",
     "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
@@ -162,21 +177,6 @@
       "score1": "407 & 67-1",
       "score2": "664",
       "match_status": "Day 3: Stumps - Nottinghamshire trail by 190 runs"
-    }
-  },
-  {
-    "match": "Hampshire vs Warwickshire,",
-    "status": "29th Match",
-    "date_stadium": "Today   -  Today     at Birmingham, Edgbaston",
-    "live_score": "/live-cricket-scores/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113013/ham-vs-warks-29th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "HAM",
-      "team2": "WARK..",
-      "score1": "300 & 203",
-      "score2": "194 & 220",
-      "match_status": "Hampshire won by 89 runs"
     }
   }
 ]
