@@ -30,21 +30,6 @@
     }
   },
   {
-    "match": "Austria vs Slovenia,",
-    "status": "2nd Match",
-    "date_stadium": "Today     at Latschach, Velden Cricket Ground",
-    "live_score": "/live-cricket-scores/119036/aut-vs-slv-2nd-match-slovenia-tour-of-austria-2025",
-    "scorecard": "/live-cricket-scorecard/119036/aut-vs-slv-2nd-match-slovenia-tour-of-austria-2025",
-    "commentary": "/cricket-full-commentary/119036/aut-vs-slv-2nd-match-slovenia-tour-of-austria-2025",
-    "teams": {
-      "team1": "AUT",
-      "team2": "SLV",
-      "score1": "223-8 (20 Ovs)",
-      "score2": "113-9 (20 Ovs)",
-      "match_status": "Austria won by 110 runs"
-    }
-  },
-  {
     "match": "Delhi Capitals vs Gujarat Titans,",
     "status": "60th Match",
     "date_stadium": "Today     at Delhi, Arun Jaitley Stadium",
@@ -57,6 +42,21 @@
       "score1": "199-3 (20 Ovs)",
       "score2": "205-0 (19 Ovs)",
       "match_status": "Gujarat Titans won by 10 wkts"
+    }
+  },
+  {
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "424 & 135-4",
+      "score2": "516",
+      "match_status": "Day 3: Stumps - Kent lead by 43 runs"
     }
   },
   {
@@ -105,18 +105,18 @@
     }
   },
   {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
     "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "424 & 135-4",
-      "score2": "516",
-      "match_status": "Day 3: Stumps - Kent lead by 43 runs"
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "255 & 185-6",
+      "score2": "512",
+      "match_status": "Day 3: Stumps - Yorkshire trail by 72 runs"
     }
   },
   {
@@ -177,21 +177,6 @@
       "score1": "358 & 134",
       "score2": "157 & 110",
       "match_status": "Worcestershire won by 225 runs"
-    }
-  },
-  {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255 & 185-6",
-      "score2": "512",
-      "match_status": "Day 3: Stumps - Yorkshire trail by 72 runs"
     }
   }
 ]
