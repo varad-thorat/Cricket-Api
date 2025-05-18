@@ -9,39 +9,24 @@
     "teams": {
       "team1": "PCCS..",
       "team2": "ZIM",
-      "score1": "330 & 387-5",
+      "score1": "330 & 389-5",
       "score2": "403",
-      "match_status": "Day 3: Stumps - Professional County Club Select XI lead by 314 runs"
+      "match_status": "Day 4: 1st Session - Professional County Club Select XI lead by 316 runs"
     }
   },
   {
     "match": "Punjab Kings vs Rajasthan Royals,",
     "status": "59th Match",
     "date_stadium": "Today     at Jaipur, Sawai Mansingh Stadium",
-    "live_score": "",
-    "scorecard": "",
-    "commentary": "",
+    "live_score": "/live-cricket-scores/118820/pbks-vs-rr-59th-match-indian-premier-league-2025",
+    "scorecard": "/live-cricket-scorecard/118820/pbks-vs-rr-59th-match-indian-premier-league-2025",
+    "commentary": "/cricket-full-commentary/118820/pbks-vs-rr-59th-match-indian-premier-league-2025",
     "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
+      "team1": "PBKS",
+      "team2": "RR",
+      "score1": "33-1 (2.4 Ovs)",
       "score2": "",
       "match_status": "Punjab Kings opt to bat"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458",
-      "score2": "112-4",
-      "match_status": "Day 3: 1st Session - Derbyshire trail by 346 runs"
     }
   },
   {
@@ -54,9 +39,9 @@
     "teams": {
       "team1": "MDX",
       "team2": "LEIC",
-      "score1": "232 & 10-0",
+      "score1": "232 & 16-0",
       "score2": "274",
-      "match_status": "Day 2: Stumps - Middlesex trail by 32 runs"
+      "match_status": "Day 3: 1st Session - Middlesex trail by 26 runs"
     }
   },
   {
@@ -70,8 +55,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424",
-      "score2": "307-4",
-      "match_status": "Day 2: Stumps - Gloucestershire trail by 117 runs"
+      "score2": "317-4",
+      "match_status": "Day 3: 1st Session - Gloucestershire trail by 107 runs"
     }
   },
   {
@@ -84,24 +69,24 @@
     "teams": {
       "team1": "NHNT..",
       "team2": "GLAM",
-      "score1": "185 & 49-3",
+      "score1": "185 & 57-3",
       "score2": "424",
-      "match_status": "Day 2: Stumps - Northamptonshire trail by 190 runs"
+      "match_status": "Day 3: Unforeseen conditions - Northamptonshire trail by 182 runs"
     }
   },
   {
-    "match": "Somerset vs Sussex,",
-    "status": "27th Match",
-    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
-    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "SOM",
-      "team2": "SUS",
-      "score1": "338",
-      "score2": "152 & 127-4 (f/o)",
-      "match_status": "Day 2: Stumps - Sussex trail by 59 runs"
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458",
+      "score2": "118-4",
+      "match_status": "Day 3: 1st Session - Derbyshire trail by 340 runs"
     }
   },
   {
@@ -114,9 +99,9 @@
     "teams": {
       "team1": "WORC..",
       "team2": "ESS",
-      "score1": "358 & 58-5",
+      "score1": "358 & 61-5",
       "score2": "157",
-      "match_status": "Day 2: Stumps - Worcestershire lead by 259 runs"
+      "match_status": "Day 3: 1st Session - Worcestershire lead by 262 runs"
     }
   },
   {
@@ -130,8 +115,8 @@
       "team1": "YORK..",
       "team2": "SUR",
       "score1": "255",
-      "score2": "384-7",
-      "match_status": "Day 2: Stumps - Surrey lead by 129 runs"
+      "score2": "390-7",
+      "match_status": "Day 3: 1st Session - Surrey lead by 135 runs"
     }
   },
   {
@@ -145,8 +130,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407",
-      "score2": "320-4",
-      "match_status": "Day 2: Stumps - Durham trail by 87 runs"
+      "score2": "328-4",
+      "match_status": "Day 3: 1st Session - Durham trail by 79 runs"
     }
   },
   {
@@ -159,9 +144,24 @@
     "teams": {
       "team1": "HAM",
       "team2": "WARK..",
-      "score1": "300 & 159-6",
+      "score1": "300 & 166-6",
       "score2": "194",
-      "match_status": "Day 2: Stumps - Hampshire lead by 265 runs"
+      "match_status": "Day 3: 1st Session - Hampshire lead by 272 runs"
+    }
+  },
+  {
+    "match": "Somerset vs Sussex,",
+    "status": "27th Match",
+    "date_stadium": "Today   -  Today     at Taunton, The Cooper Associates County Ground",
+    "live_score": "/live-cricket-scores/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113001/som-vs-sus-27th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "SOM",
+      "team2": "SUS",
+      "score1": "338",
+      "score2": "152 & 129-6 (f/o)",
+      "match_status": "Day 3: 1st Session - Sussex trail by 57 runs"
     }
   },
   {
