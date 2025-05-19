@@ -1,5 +1,20 @@
 [
   {
+    "match": "Bangladesh vs United Arab Emirates,",
+    "status": "2nd T20I",
+    "date_stadium": "Today     at Sharjah, Sharjah Cricket Stadium",
+    "live_score": "",
+    "scorecard": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "United Arab Emirates opt to bowl"
+    }
+  },
+  {
     "match": "Oman vs Canada,",
     "status": "69th Match",
     "date_stadium": "Today     at Lauderhill, Florida, Central Broward Regional Park Stadium Turf Ground",
@@ -9,7 +24,7 @@
     "teams": {
       "team1": "OMAN",
       "team2": "CAN",
-      "score1": "13-2 (7 Ovs)",
+      "score1": "15-2 (8 Ovs)",
       "score2": "",
       "match_status": "Oman opt to bat"
     }
@@ -24,24 +39,9 @@
     "teams": {
       "team1": "LSG",
       "team2": "SRH",
-      "score1": "88-0 (7.4 Ovs)",
+      "score1": "115-1 (10.3 Ovs)",
       "score2": "",
       "match_status": "Sunrisers Hyderabad opt to bowl"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "424 & 253",
-      "score2": "516 & 57-4",
-      "match_status": "Day 4: 2nd Session - Gloucestershire need 105 runs"
     }
   },
   {
@@ -55,23 +55,23 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458 & 184-7 d",
-      "score2": "314 & 156-5",
-      "match_status": "Day 4: 2nd Session - Derbyshire need 173 runs"
+      "score2": "314 & 165-5",
+      "match_status": "Day 4: Tea Break - Derbyshire need 164 runs"
     }
   },
   {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
     "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "407 & 295-5",
-      "score2": "664",
-      "match_status": "Day 4: 2nd Session - Nottinghamshire lead by 38 runs"
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "424 & 253",
+      "score2": "516 & 65-4",
+      "match_status": "Day 4: Tea Break - Gloucestershire need 97 runs"
     }
   },
   {
@@ -87,6 +87,21 @@
       "score1": "255 & 229",
       "score2": "512",
       "match_status": "Surrey won by an innings and 28 runs"
+    }
+  },
+  {
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "407 & 305-5",
+      "score2": "664",
+      "match_status": "Day 4: Tea Break - Nottinghamshire lead by 48 runs"
     }
   }
 ]
