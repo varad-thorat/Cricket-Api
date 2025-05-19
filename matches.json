@@ -43,35 +43,5 @@
       "score2": "206-4 (18.2 Ovs)",
       "match_status": "Sunrisers Hyderabad won by 6 wkts"
     }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458 & 184-7 d",
-      "score2": "314 & 220-8",
-      "match_status": "Match drawn"
-    }
-  },
-  {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "407 & 347",
-      "score2": "664 & 92-3",
-      "match_status": "Durham won by 7 wkts"
-    }
   }
 ]
