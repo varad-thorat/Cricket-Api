@@ -10,8 +10,8 @@
       "team1": "BAN",
       "team2": "UAE",
       "score1": "205-5 (20 Ovs)",
-      "score2": "6-0 (1 Ovs)",
-      "match_status": "United Arab Emirates need 200 runs"
+      "score2": "52-0 (4.3 Ovs)",
+      "match_status": "United Arab Emirates need 154 runs in 93 balls"
     }
   },
   {
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "OMAN",
       "team2": "CAN",
-      "score1": "165-6 (43 Ovs)",
+      "score1": "201-6 (49 Ovs)",
       "score2": "",
       "match_status": "Oman opt to bat"
     }
@@ -40,8 +40,23 @@
       "team1": "LSG",
       "team2": "SRH",
       "score1": "205-7 (20 Ovs)",
-      "score2": "120-2 (10 Ovs)",
-      "match_status": "Sunrisers Hyderabad need 86 runs in 60 balls"
+      "score2": "168-3 (14.3 Ovs)",
+      "match_status": "Sunrisers Hyderabad need 38 runs in 33 balls"
+    }
+  },
+  {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458 & 184-7 d",
+      "score2": "314 & 219-8",
+      "match_status": "Day 4: 3rd Session - Derbyshire need 110 runs"
     }
   },
   {
@@ -60,18 +75,18 @@
     }
   },
   {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "match": "Yorkshire vs Surrey,",
+    "status": "28th Match",
+    "date_stadium": "Today   -  Today     at London, Kennington Oval",
+    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
     "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458 & 184-7 d",
-      "score2": "314 & 217-8",
-      "match_status": "Day 4: 3rd Session - Derbyshire need 112 runs"
+      "team1": "YORK..",
+      "team2": "SUR",
+      "score1": "255 & 229",
+      "score2": "512",
+      "match_status": "Surrey won by an innings and 28 runs"
     }
   },
   {
@@ -85,23 +100,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407 & 347",
-      "score2": "664 & 58-2",
-      "match_status": "Day 4: 3rd Session - Durham need 33 runs"
-    }
-  },
-  {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255 & 229",
-      "score2": "512",
-      "match_status": "Surrey won by an innings and 28 runs"
+      "score2": "664 & 86-3",
+      "match_status": "Day 4: 3rd Session - Durham need 5 runs"
     }
   }
 ]
