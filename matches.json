@@ -9,7 +9,7 @@
     "teams": {
       "team1": "BAN",
       "team2": "UAE",
-      "score1": "71-0 (6.5 Ovs)",
+      "score1": "90-0 (9 Ovs)",
       "score2": "",
       "match_status": "United Arab Emirates opt to bowl"
     }
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "OMAN",
       "team2": "CAN",
-      "score1": "48-3 (17.2 Ovs)",
+      "score1": "68-3 (22 Ovs)",
       "score2": "",
       "match_status": "Oman opt to bat"
     }
@@ -39,7 +39,7 @@
     "teams": {
       "team1": "LSG",
       "team2": "SRH",
-      "score1": "170-4 (18 Ovs)",
+      "score1": "185-4 (19 Ovs)",
       "score2": "",
       "match_status": "Sunrisers Hyderabad opt to bowl"
     }
@@ -55,8 +55,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424 & 253",
-      "score2": "516 & 99-4",
-      "match_status": "Day 4: 3rd Session - Gloucestershire need 63 runs"
+      "score2": "516 & 110-4",
+      "match_status": "Day 4: 3rd Session - Gloucestershire need 52 runs"
     }
   },
   {
@@ -70,23 +70,8 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458 & 184-7 d",
-      "score2": "314 & 173-5",
-      "match_status": "Day 4: 3rd Session - Derbyshire need 156 runs"
-    }
-  },
-  {
-    "match": "Nottinghamshire vs Durham,",
-    "status": "26th Match",
-    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
-    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "NOTT..",
-      "team2": "DUR",
-      "score1": "407 & 328-7",
-      "score2": "664",
-      "match_status": "Day 4: 3rd Session - Nottinghamshire lead by 71 runs"
+      "score2": "314 & 179-5",
+      "match_status": "Day 4: 3rd Session - Derbyshire need 150 runs"
     }
   },
   {
@@ -102,6 +87,21 @@
       "score1": "255 & 229",
       "score2": "512",
       "match_status": "Surrey won by an innings and 28 runs"
+    }
+  },
+  {
+    "match": "Nottinghamshire vs Durham,",
+    "status": "26th Match",
+    "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
+    "live_score": "/live-cricket-scores/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "scorecard": "/live-cricket-scorecard/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "commentary": "/cricket-full-commentary/112995/notts-vs-dur-26th-match-county-championship-division-one-2025",
+    "teams": {
+      "team1": "NOTT..",
+      "team2": "DUR",
+      "score1": "407 & 336-8",
+      "score2": "664",
+      "match_status": "Day 4: 3rd Session - Nottinghamshire lead by 79 runs"
     }
   }
 ]
