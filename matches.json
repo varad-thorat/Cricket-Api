@@ -9,9 +9,9 @@
     "teams": {
       "team1": "BAN",
       "team2": "UAE",
-      "score1": "203-5 (19.3 Ovs)",
-      "score2": "",
-      "match_status": "United Arab Emirates opt to bowl"
+      "score1": "205-5 (20 Ovs)",
+      "score2": "6-0 (1 Ovs)",
+      "match_status": "United Arab Emirates need 200 runs"
     }
   },
   {
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "OMAN",
       "team2": "CAN",
-      "score1": "152-6 (39.5 Ovs)",
+      "score1": "165-6 (43 Ovs)",
       "score2": "",
       "match_status": "Oman opt to bat"
     }
@@ -40,23 +40,8 @@
       "team1": "LSG",
       "team2": "SRH",
       "score1": "205-7 (20 Ovs)",
-      "score2": "98-1 (7 Ovs)",
-      "match_status": "Sunrisers Hyderabad need 108 runs in 78 balls"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458 & 184-7 d",
-      "score2": "314 & 216-7",
-      "match_status": "Day 4: 3rd Session - Derbyshire need 113 runs"
+      "score2": "120-2 (10 Ovs)",
+      "match_status": "Sunrisers Hyderabad need 86 runs in 60 balls"
     }
   },
   {
@@ -70,8 +55,23 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424 & 253",
-      "score2": "516 & 158-7",
-      "match_status": "Day 4: 3rd Session - Gloucestershire need 4 runs"
+      "score2": "516 & 162-7",
+      "match_status": "Gloucestershire won by 3 wkts"
+    }
+  },
+  {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458 & 184-7 d",
+      "score2": "314 & 217-8",
+      "match_status": "Day 4: 3rd Session - Derbyshire need 112 runs"
     }
   },
   {
@@ -85,8 +85,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407 & 347",
-      "score2": "664 & 32-2",
-      "match_status": "Day 4: 3rd Session - Durham need 59 runs"
+      "score2": "664 & 58-2",
+      "match_status": "Day 4: 3rd Session - Durham need 33 runs"
     }
   },
   {
