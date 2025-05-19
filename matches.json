@@ -3,13 +3,13 @@
     "match": "Oman vs Canada,",
     "status": "69th Match",
     "date_stadium": "Today     at Lauderhill, Florida, Central Broward Regional Park Stadium Turf Ground",
-    "live_score": "",
-    "scorecard": "",
-    "commentary": "",
+    "live_score": "/live-cricket-scores/117629/oman-vs-can-69th-match-icc-cricket-world-cup-league-two-2023-27",
+    "scorecard": "/live-cricket-scorecard/117629/oman-vs-can-69th-match-icc-cricket-world-cup-league-two-2023-27",
+    "commentary": "/cricket-full-commentary/117629/oman-vs-can-69th-match-icc-cricket-world-cup-league-two-2023-27",
     "teams": {
-      "team1": "",
-      "team2": "",
-      "score1": "",
+      "team1": "OMAN",
+      "team2": "CAN",
+      "score1": "13-2 (7 Ovs)",
       "score2": "",
       "match_status": "Oman opt to bat"
     }
@@ -24,9 +24,39 @@
     "teams": {
       "team1": "LSG",
       "team2": "SRH",
-      "score1": "19-0 (2.1 Ovs)",
+      "score1": "88-0 (7.4 Ovs)",
       "score2": "",
       "match_status": "Sunrisers Hyderabad opt to bowl"
+    }
+  },
+  {
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "424 & 253",
+      "score2": "516 & 57-4",
+      "match_status": "Day 4: 2nd Session - Gloucestershire need 105 runs"
+    }
+  },
+  {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458 & 184-7 d",
+      "score2": "314 & 156-5",
+      "match_status": "Day 4: 2nd Session - Derbyshire need 173 runs"
     }
   },
   {
@@ -39,9 +69,9 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "407 & 276-5",
+      "score1": "407 & 295-5",
       "score2": "664",
-      "match_status": "Day 4: 2nd Session - Nottinghamshire lead by 19 runs"
+      "match_status": "Day 4: 2nd Session - Nottinghamshire lead by 38 runs"
     }
   },
   {
@@ -57,36 +87,6 @@
       "score1": "255 & 229",
       "score2": "512",
       "match_status": "Surrey won by an innings and 28 runs"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458 & 184-7 d",
-      "score2": "314 & 134-3",
-      "match_status": "Day 4: 2nd Session - Derbyshire need 195 runs"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "424 & 253",
-      "score2": "516 & 40-3",
-      "match_status": "Day 4: 2nd Session - Gloucestershire need 122 runs"
     }
   }
 ]
