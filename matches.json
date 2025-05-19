@@ -9,7 +9,7 @@
     "teams": {
       "team1": "BAN",
       "team2": "UAE",
-      "score1": "165-3 (17 Ovs)",
+      "score1": "203-5 (19.3 Ovs)",
       "score2": "",
       "match_status": "United Arab Emirates opt to bowl"
     }
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "OMAN",
       "team2": "CAN",
-      "score1": "126-4 (35 Ovs)",
+      "score1": "152-6 (39.5 Ovs)",
       "score2": "",
       "match_status": "Oman opt to bat"
     }
@@ -40,23 +40,8 @@
       "team1": "LSG",
       "team2": "SRH",
       "score1": "205-7 (20 Ovs)",
-      "score2": "50-1 (3.3 Ovs)",
-      "match_status": "Sunrisers Hyderabad need 156 runs"
-    }
-  },
-  {
-    "match": "Kent vs Gloucestershire,",
-    "status": "21st Match",
-    "date_stadium": "Today   -  Today     at Bristol, County Ground",
-    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "KENT",
-      "team2": "GLOU..",
-      "score1": "424 & 253",
-      "score2": "516 & 141-7",
-      "match_status": "Day 4: 3rd Session - Gloucestershire need 21 runs"
+      "score2": "98-1 (7 Ovs)",
+      "match_status": "Sunrisers Hyderabad need 108 runs in 78 balls"
     }
   },
   {
@@ -70,8 +55,23 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458 & 184-7 d",
-      "score2": "314 & 212-7",
-      "match_status": "Day 4: 3rd Session - Derbyshire need 117 runs"
+      "score2": "314 & 216-7",
+      "match_status": "Day 4: 3rd Session - Derbyshire need 113 runs"
+    }
+  },
+  {
+    "match": "Kent vs Gloucestershire,",
+    "status": "21st Match",
+    "date_stadium": "Today   -  Today     at Bristol, County Ground",
+    "live_score": "/live-cricket-scores/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113436/kent-vs-gloucs-21st-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "KENT",
+      "team2": "GLOU..",
+      "score1": "424 & 253",
+      "score2": "516 & 158-7",
+      "match_status": "Day 4: 3rd Session - Gloucestershire need 4 runs"
     }
   },
   {
@@ -85,8 +85,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407 & 347",
-      "score2": "664 & 4-2",
-      "match_status": "Day 4: 3rd Session - Durham need 87 runs"
+      "score2": "664 & 32-2",
+      "match_status": "Day 4: 3rd Session - Durham need 59 runs"
     }
   },
   {
