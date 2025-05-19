@@ -24,9 +24,9 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "407 & 210-4",
+      "score1": "407 & 258-5",
       "score2": "664",
-      "match_status": "Day 4: 2nd Session - Nottinghamshire trail by 47 runs"
+      "match_status": "Day 4: 2nd Session - Nottinghamshire lead by 1 run"
     }
   },
   {
@@ -55,8 +55,8 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458 & 184-7 d",
-      "score2": "314 & 99-2",
-      "match_status": "Day 4: 2nd Session - Derbyshire need 230 runs"
+      "score2": "314 & 124-2",
+      "match_status": "Day 4: 2nd Session - Derbyshire need 205 runs"
     }
   },
   {
@@ -70,8 +70,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424 & 253",
-      "score2": "516 & 12-1",
-      "match_status": "Day 4: 2nd Session - Gloucestershire need 150 runs"
+      "score2": "516 & 30-2",
+      "match_status": "Day 4: 2nd Session - Gloucestershire need 132 runs"
     }
   }
 ]
