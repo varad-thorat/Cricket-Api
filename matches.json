@@ -9,7 +9,7 @@
     "teams": {
       "team1": "BAN",
       "team2": "UAE",
-      "score1": "23-0 (2 Ovs)",
+      "score1": "71-0 (6.5 Ovs)",
       "score2": "",
       "match_status": "United Arab Emirates opt to bowl"
     }
@@ -24,7 +24,7 @@
     "teams": {
       "team1": "OMAN",
       "team2": "CAN",
-      "score1": "34-3 (13 Ovs)",
+      "score1": "48-3 (17.2 Ovs)",
       "score2": "",
       "match_status": "Oman opt to bat"
     }
@@ -39,7 +39,7 @@
     "teams": {
       "team1": "LSG",
       "team2": "SRH",
-      "score1": "140-2 (14.3 Ovs)",
+      "score1": "170-4 (18 Ovs)",
       "score2": "",
       "match_status": "Sunrisers Hyderabad opt to bowl"
     }
@@ -55,8 +55,8 @@
       "team1": "KENT",
       "team2": "GLOU..",
       "score1": "424 & 253",
-      "score2": "516 & 65-4",
-      "match_status": "Day 4: Tea Break - Gloucestershire need 97 runs"
+      "score2": "516 & 99-4",
+      "match_status": "Day 4: 3rd Session - Gloucestershire need 63 runs"
     }
   },
   {
@@ -70,8 +70,8 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458 & 184-7 d",
-      "score2": "314 & 169-5",
-      "match_status": "Day 4: 3rd Session - Derbyshire need 160 runs"
+      "score2": "314 & 173-5",
+      "match_status": "Day 4: 3rd Session - Derbyshire need 156 runs"
     }
   },
   {
@@ -84,9 +84,9 @@
     "teams": {
       "team1": "NOTT..",
       "team2": "DUR",
-      "score1": "407 & 312-6",
+      "score1": "407 & 328-7",
       "score2": "664",
-      "match_status": "Day 4: 3rd Session - Nottinghamshire lead by 55 runs"
+      "match_status": "Day 4: 3rd Session - Nottinghamshire lead by 71 runs"
     }
   },
   {
