@@ -10,8 +10,8 @@
       "team1": "BAN",
       "team2": "UAE",
       "score1": "205-5 (20 Ovs)",
-      "score2": "78-0 (6.5 Ovs)",
-      "match_status": "United Arab Emirates need 128 runs in 79 balls"
+      "score2": "92-0 (8.5 Ovs)",
+      "match_status": "United Arab Emirates need 114 runs in 67 balls"
     }
   },
   {
@@ -40,23 +40,8 @@
       "team1": "LSG",
       "team2": "SRH",
       "score1": "205-7 (20 Ovs)",
-      "score2": "183-3 (16.4 Ovs)",
-      "match_status": "Sunrisers Hyderabad need 23 runs in 20 balls"
-    }
-  },
-  {
-    "match": "Lancashire vs Derbyshire,",
-    "status": "22nd Match",
-    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
-    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
-    "teams": {
-      "team1": "LANC..",
-      "team2": "DERB..",
-      "score1": "458 & 184-7 d",
-      "score2": "314 & 220-8",
-      "match_status": "Match drawn"
+      "score2": "197-4 (17.5 Ovs)",
+      "match_status": "Sunrisers Hyderabad need 9 runs in 13 balls"
     }
   },
   {
@@ -72,6 +57,21 @@
       "score1": "424 & 253",
       "score2": "516 & 162-7",
       "match_status": "Gloucestershire won by 3 wkts"
+    }
+  },
+  {
+    "match": "Lancashire vs Derbyshire,",
+    "status": "22nd Match",
+    "date_stadium": "Today   -  Today     at Manchester, Emirates Old Trafford",
+    "live_score": "/live-cricket-scores/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "scorecard": "/live-cricket-scorecard/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "commentary": "/cricket-full-commentary/113442/lancs-vs-derby-22nd-match-county-championship-division-two-2025",
+    "teams": {
+      "team1": "LANC..",
+      "team2": "DERB..",
+      "score1": "458 & 184-7 d",
+      "score2": "314 & 220-8",
+      "match_status": "Match drawn"
     }
   },
   {
