@@ -10,8 +10,8 @@
       "team1": "BAN",
       "team2": "UAE",
       "score1": "205-5 (20 Ovs)",
-      "score2": "52-0 (4.3 Ovs)",
-      "match_status": "United Arab Emirates need 154 runs in 93 balls"
+      "score2": "78-0 (6.5 Ovs)",
+      "match_status": "United Arab Emirates need 128 runs in 79 balls"
     }
   },
   {
@@ -24,9 +24,9 @@
     "teams": {
       "team1": "OMAN",
       "team2": "CAN",
-      "score1": "201-6 (49 Ovs)",
+      "score1": "217-6 (50 Ovs)",
       "score2": "",
-      "match_status": "Oman opt to bat"
+      "match_status": "Innings Break"
     }
   },
   {
@@ -40,8 +40,8 @@
       "team1": "LSG",
       "team2": "SRH",
       "score1": "205-7 (20 Ovs)",
-      "score2": "168-3 (14.3 Ovs)",
-      "match_status": "Sunrisers Hyderabad need 38 runs in 33 balls"
+      "score2": "183-3 (16.4 Ovs)",
+      "match_status": "Sunrisers Hyderabad need 23 runs in 20 balls"
     }
   },
   {
@@ -55,8 +55,8 @@
       "team1": "LANC..",
       "team2": "DERB..",
       "score1": "458 & 184-7 d",
-      "score2": "314 & 219-8",
-      "match_status": "Day 4: 3rd Session - Derbyshire need 110 runs"
+      "score2": "314 & 220-8",
+      "match_status": "Match drawn"
     }
   },
   {
@@ -75,21 +75,6 @@
     }
   },
   {
-    "match": "Yorkshire vs Surrey,",
-    "status": "28th Match",
-    "date_stadium": "Today   -  Today     at London, Kennington Oval",
-    "live_score": "/live-cricket-scores/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "scorecard": "/live-cricket-scorecard/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "commentary": "/cricket-full-commentary/113010/yorks-vs-sur-28th-match-county-championship-division-one-2025",
-    "teams": {
-      "team1": "YORK..",
-      "team2": "SUR",
-      "score1": "255 & 229",
-      "score2": "512",
-      "match_status": "Surrey won by an innings and 28 runs"
-    }
-  },
-  {
     "match": "Nottinghamshire vs Durham,",
     "status": "26th Match",
     "date_stadium": "Today   -  Today     at Chester-le-Street, Riverside Ground",
@@ -100,8 +85,8 @@
       "team1": "NOTT..",
       "team2": "DUR",
       "score1": "407 & 347",
-      "score2": "664 & 86-3",
-      "match_status": "Day 4: 3rd Session - Durham need 5 runs"
+      "score2": "664 & 92-3",
+      "match_status": "Durham won by 7 wkts"
     }
   }
 ]
