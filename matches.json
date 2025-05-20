@@ -1,20 +1,5 @@
 [
   {
-    "match": "Oman vs Canada,",
-    "status": "69th Match",
-    "date_stadium": "Today     at Lauderhill, Florida, Central Broward Regional Park Stadium Turf Ground",
-    "live_score": "/live-cricket-scores/117629/oman-vs-can-69th-match-icc-cricket-world-cup-league-two-2023-27",
-    "scorecard": "/live-cricket-scorecard/117629/oman-vs-can-69th-match-icc-cricket-world-cup-league-two-2023-27",
-    "commentary": "/cricket-full-commentary/117629/oman-vs-can-69th-match-icc-cricket-world-cup-league-two-2023-27",
-    "teams": {
-      "team1": "OMAN",
-      "team2": "CAN",
-      "score1": "217-6 (50 Ovs)",
-      "score2": "202 (49 Ovs)",
-      "match_status": "Oman won by 15 runs"
-    }
-  },
-  {
     "match": "Thailand Women vs Nepal Women,",
     "status": "Super Three - Match 3",
     "date_stadium": "Today     at Bangkok, Terdthai Cricket Ground",
@@ -24,7 +9,7 @@
     "teams": {
       "team1": "THAI..",
       "team2": "NEPW",
-      "score1": "17-0 (2.3 Ovs)",
+      "score1": "56-0 (9.3 Ovs)",
       "score2": "",
       "match_status": "Nepal Women opt to bowl"
     }
